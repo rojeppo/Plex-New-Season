@@ -29,6 +29,7 @@ jobs:
           OWNER_NAME:           ${{ vars.OWNER_NAME }}
           SITE_TITLE:           ${{ vars.SITE_TITLE }}
           DEFAULT_THEME:        ${{ vars.DEFAULT_THEME }}
+          EXCLUDED_SECTIONS:    ${{ vars.EXCLUDED_SECTIONS }}
 
       - name: Commit and push updated data
         uses: stefanzweifel/git-auto-commit-action@v5
