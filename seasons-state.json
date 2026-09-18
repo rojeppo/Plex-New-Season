@@ -1,35 +1,14 @@
 {
   "70350": {
-    "title": "新世紀エヴァンゲリオン",
+    "title": "Neon Genesis Evangelion",
     "seenSeasons": [
       1
     ]
   },
   "71361": {
-    "title": "犬夜叉",
+    "title": "InuYasha",
     "seenSeasons": [
       7,
-      6,
-      5,
-      4,
-      3,
-      2,
-      1
-    ]
-  },
-  "71503": {
-    "title": "Teen Titans",
-    "seenSeasons": [
-      5,
-      4,
-      3,
-      2,
-      1
-    ]
-  },
-  "71685": {
-    "title": "Codename: Kids Next Door",
-    "seenSeasons": [
       6,
       5,
       4,
@@ -68,18 +47,8 @@
       1
     ]
   },
-  "73587": {
-    "title": "The Twilight Zone",
-    "seenSeasons": [
-      5,
-      4,
-      3,
-      2,
-      1
-    ]
-  },
   "74796": {
-    "title": "BLEACH",
+    "title": "Bleach",
     "seenSeasons": [
       17,
       16,
@@ -95,45 +64,14 @@
       6,
       5,
       4,
-      3,
-      2,
-      1
-    ]
-  },
-  "74852": {
-    "title": "Avatar: The Last Airbender",
-    "seenSeasons": [
       3,
       2,
       1
     ]
   },
   "75092": {
-    "title": "妄想代理人",
+    "title": "Paranoia Agent",
     "seenSeasons": [
-      1
-    ]
-  },
-  "75886": {
-    "title": "SpongeBob SquarePants",
-    "seenSeasons": [
-      18,
-      17,
-      16,
-      15,
-      14,
-      13,
-      12,
-      11,
-      10,
-      9,
-      8,
-      7,
-      6,
-      5,
-      4,
-      3,
-      2,
       1
     ]
   },
@@ -147,7 +85,7 @@
     ]
   },
   "76885": {
-    "title": "カウボーイビバップ",
+    "title": "Cowboy Bebop",
     "seenSeasons": [
       1
     ]
@@ -166,7 +104,7 @@
     ]
   },
   "78857": {
-    "title": "NARUTO－ナルト－",
+    "title": "Naruto",
     "seenSeasons": [
       5,
       4,
@@ -176,26 +114,15 @@
     ]
   },
   "79044": {
-    "title": "ハチミツとクローバー",
+    "title": "Honey and Clover",
     "seenSeasons": [
       2,
       1
     ]
   },
   "79151": {
-    "title": "Fate/stay night",
+    "title": "Fate/Stay Night",
     "seenSeasons": [
-      1
-    ]
-  },
-  "79323": {
-    "title": "Foster's Home for Imaginary Friends",
-    "seenSeasons": [
-      6,
-      5,
-      4,
-      3,
-      2,
       1
     ]
   },
@@ -213,39 +140,39 @@
     ]
   },
   "79360": {
-    "title": "交響詩篇エウレカセブン",
+    "title": "Eureka Seven",
     "seenSeasons": [
       2,
       1
     ]
   },
   "79481": {
-    "title": "DEATH NOTE -デスノート-",
+    "title": "Death Note",
     "seenSeasons": [
       1
     ]
   },
   "79525": {
-    "title": "コードギアス 反逆のルルーシュ",
+    "title": "Code Geass: Lelouch of the Rebellion",
     "seenSeasons": [
       2,
       1
     ]
   },
   "79604": {
-    "title": "ブラック・ラグーン",
+    "title": "Black Lagoon",
     "seenSeasons": [
       1
     ]
   },
   "79713": {
-    "title": "桜蘭高校ホスト部",
+    "title": "Ouran High School Host Club",
     "seenSeasons": [
       1
     ]
   },
   "79824": {
-    "title": "NARUTO－ナルト－ 疾風伝",
+    "title": "Naruto Shippuden",
     "seenSeasons": [
       22,
       21,
@@ -272,26 +199,26 @@
     ]
   },
   "80044": {
-    "title": "精霊の守り人",
+    "title": "Moribito: Guardian of the Spirit",
     "seenSeasons": [
       1
     ]
   },
   "80096": {
-    "title": "天元突破グレンラガン",
+    "title": "Gurren Lagann",
     "seenSeasons": [
       1
     ]
   },
   "80644": {
-    "title": "CLANNAD",
+    "title": "Clannad",
     "seenSeasons": [
       2,
       1
     ]
   },
   "80901": {
-    "title": "ラブ★コン",
+    "title": "Lovely Complex",
     "seenSeasons": [
       1
     ]
@@ -306,16 +233,8 @@
       1
     ]
   },
-  "81500": {
-    "title": "Chowder",
-    "seenSeasons": [
-      3,
-      2,
-      1
-    ]
-  },
   "81797": {
-    "title": "ワンピース",
+    "title": "One Piece",
     "seenSeasons": [
       23,
       22,
@@ -343,7 +262,7 @@
     ]
   },
   "81831": {
-    "title": "To LOVEる -とらぶる-",
+    "title": "To LOVE-Ru",
     "seenSeasons": [
       4,
       3,
@@ -352,19 +271,19 @@
     ]
   },
   "82099": {
-    "title": "空の境界",
+    "title": "The Garden of Sinners",
     "seenSeasons": [
       1
     ]
   },
   "82167": {
-    "title": "ご愁傷さま二ノ宮くん",
+    "title": "Good Luck! Ninomiya-kun",
     "seenSeasons": [
       1
     ]
   },
   "83277": {
-    "title": "とらドラ！",
+    "title": "Toradora!",
     "seenSeasons": [
       1
     ]
@@ -378,14 +297,14 @@
     ]
   },
   "83950": {
-    "title": "ジョジョの奇妙な冒険",
+    "title": "JoJo's Bizarre Adventure",
     "seenSeasons": [
       2,
       1
     ]
   },
   "83996": {
-    "title": "黒執事",
+    "title": "Black Butler",
     "seenSeasons": [
       5,
       4,
@@ -407,20 +326,20 @@
     ]
   },
   "85249": {
-    "title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "title": "Fullmetal Alchemist: Brotherhood",
     "seenSeasons": [
       1
     ]
   },
   "87501": {
-    "title": "けいおん！",
+    "title": "K-ON!",
     "seenSeasons": [
       2,
       1
     ]
   },
   "88031": {
-    "title": "ドラゴンボール改",
+    "title": "Dragon Ball Kai",
     "seenSeasons": [
       2,
       1
@@ -438,7 +357,7 @@
     ]
   },
   "117801": {
-    "title": "君に届け",
+    "title": "Kimi ni Todoke: From Me to You",
     "seenSeasons": [
       3,
       2,
@@ -446,7 +365,7 @@
     ]
   },
   "148151": {
-    "title": "会長はメイド様！",
+    "title": "Maid Sama!",
     "seenSeasons": [
       1
     ]
@@ -457,23 +376,8 @@
       1
     ]
   },
-  "152831": {
-    "title": "Adventure Time",
-    "seenSeasons": [
-      10,
-      9,
-      8,
-      7,
-      6,
-      5,
-      4,
-      3,
-      2,
-      1
-    ]
-  },
   "172921": {
-    "title": "アマガミSS",
+    "title": "Amagami SS",
     "seenSeasons": [
       2,
       1
@@ -482,19 +386,6 @@
   "176941": {
     "title": "Sherlock",
     "seenSeasons": [
-      4,
-      3,
-      2,
-      1
-    ]
-  },
-  "188401": {
-    "title": "Regular Show",
-    "seenSeasons": [
-      8,
-      7,
-      6,
-      5,
       4,
       3,
       2,
@@ -513,7 +404,7 @@
     ]
   },
   "194961": {
-    "title": "俺の妹がこんなに可愛いわけがない",
+    "title": "My Little Sister Can't Be This Cute",
     "seenSeasons": [
       2,
       1
@@ -532,52 +423,31 @@
     ]
   },
   "240291": {
-    "title": "日常",
+    "title": "Nichijou: My Ordinary Life",
     "seenSeasons": [
       1
     ]
   },
   "244061": {
-    "title": "STEINS;GATE",
+    "title": "Steins;Gate",
     "seenSeasons": [
-      1
-    ]
-  },
-  "248482": {
-    "title": "The Amazing World of Gumball",
-    "seenSeasons": [
-      7,
-      6,
-      5,
-      4,
-      3,
-      2,
       1
     ]
   },
   "249827": {
-    "title": "未来日記",
+    "title": "The Future Diary",
     "seenSeasons": [
-      1
-    ]
-  },
-  "251085": {
-    "title": "The Legend of Korra",
-    "seenSeasons": [
-      4,
-      3,
-      2,
       1
     ]
   },
   "251622": {
-    "title": "トワノクオン",
+    "title": "Towa no Quon",
     "seenSeasons": [
       1
     ]
   },
   "252322": {
-    "title": "ハンター×ハンター",
+    "title": "Hunter x Hunter (2011)",
     "seenSeasons": [
       3,
       2,
@@ -585,13 +455,13 @@
     ]
   },
   "257764": {
-    "title": "氷菓",
+    "title": "Hyouka",
     "seenSeasons": [
       1
     ]
   },
   "259635": {
-    "title": "キングダム",
+    "title": "Kingdom (2012)",
     "seenSeasons": [
       6,
       5,
@@ -602,14 +472,14 @@
     ]
   },
   "259638": {
-    "title": "リトルバスターズ！",
+    "title": "Little Busters!",
     "seenSeasons": [
       2,
       1
     ]
   },
   "259640": {
-    "title": "ソードアート・オンライン",
+    "title": "Sword Art Online",
     "seenSeasons": [
       4,
       3,
@@ -618,33 +488,26 @@
     ]
   },
   "259641": {
-    "title": "恋と選挙とチョコレート",
+    "title": "Love, Election, & Chocolate",
     "seenSeasons": [
       1
     ]
   },
   "259647": {
-    "title": "ココロコネクト",
+    "title": "Kokoro Connect",
     "seenSeasons": [
-      1
-    ]
-  },
-  "259972": {
-    "title": "Gravity Falls",
-    "seenSeasons": [
-      2,
       1
     ]
   },
   "261862": {
-    "title": "中二病でも恋がしたい!",
+    "title": "Love, Chunibyo & Other Delusions!",
     "seenSeasons": [
       2,
       1
     ]
   },
   "262109": {
-    "title": "絶園のテンペスト ～THE CIVILIZATION BLASTER～",
+    "title": "Blast of Tempest",
     "seenSeasons": [
       1
     ]
@@ -656,13 +519,13 @@
     ]
   },
   "262114": {
-    "title": "さくら荘のペットな彼女",
+    "title": "The Pet Girl of Sakurasou",
     "seenSeasons": [
       1
     ]
   },
   "262954": {
-    "title": "ジョジョの奇妙な冒険 (2012)",
+    "title": "JoJo's Bizarre Adventure (2012)",
     "seenSeasons": [
       6,
       5,
@@ -673,13 +536,13 @@
     ]
   },
   "264534": {
-    "title": "たまこまーけっと",
+    "title": "Tamako Market",
     "seenSeasons": [
       1
     ]
   },
   "264663": {
-    "title": "デート・ア・ライブ",
+    "title": "Date A Live",
     "seenSeasons": [
       5,
       4,
@@ -689,7 +552,7 @@
     ]
   },
   "267435": {
-    "title": "やはり俺の青春ラブコメはまちがっている。",
+    "title": "My Teen Romantic Comedy SNAFU",
     "seenSeasons": [
       3,
       2,
@@ -697,7 +560,7 @@
     ]
   },
   "267440": {
-    "title": "進撃の巨人",
+    "title": "Attack on Titan",
     "seenSeasons": [
       4,
       3,
@@ -706,7 +569,7 @@
     ]
   },
   "270062": {
-    "title": "私がモテないのはどう考えてもお前らが悪い!",
+    "title": "WataMote: No Matter How I Look at It, It's You Guys' Fault I'm Not Popular!",
     "seenSeasons": [
       1
     ]
@@ -723,19 +586,19 @@
     ]
   },
   "272074": {
-    "title": "キルラキル",
+    "title": "Kill la Kill",
     "seenSeasons": [
       1
     ]
   },
   "272138": {
-    "title": "ゴールデンタイム",
+    "title": "Golden Time",
     "seenSeasons": [
       1
     ]
   },
   "272316": {
-    "title": "のんのんびより",
+    "title": "Non Non Biyori",
     "seenSeasons": [
       3,
       2,
@@ -743,26 +606,26 @@
     ]
   },
   "272697": {
-    "title": "境界の彼方",
+    "title": "Beyond the Boundary",
     "seenSeasons": [
       1
     ]
   },
   "275576": {
-    "title": "桜Trick",
+    "title": "Sakura Trick",
     "seenSeasons": [
       1
     ]
   },
   "275610": {
-    "title": "ノラガミ",
+    "title": "Noragami",
     "seenSeasons": [
       2,
       1
     ]
   },
   "275670": {
-    "title": "ニセコイ",
+    "title": "Nisekoi: False Love",
     "seenSeasons": [
       2,
       1
@@ -775,7 +638,7 @@
     ]
   },
   "278157": {
-    "title": "ハイキュー!!",
+    "title": "Haikyu!!",
     "seenSeasons": [
       5,
       4,
@@ -785,70 +648,64 @@
     ]
   },
   "278331": {
-    "title": "それでも世界は美しい",
+    "title": "The World is Still Beautiful",
     "seenSeasons": [
       1
     ]
   },
   "278626": {
-    "title": "Fate/stay night [Unlimited Blade Works]",
+    "title": "Fate/Stay Night: Unlimited Blade Works",
     "seenSeasons": [
       1
     ]
   },
   "279830": {
-    "title": "四月は君の嘘",
+    "title": "Your Lie in April",
     "seenSeasons": [
       1
     ]
   },
   "280329": {
-    "title": "アカメが斬る!",
+    "title": "Akame ga Kill!",
     "seenSeasons": [
       1
     ]
   },
   "281275": {
-    "title": "冴えない彼女の育てかた",
+    "title": "Saekano: How to Raise a Boring Girlfriend",
     "seenSeasons": [
       2,
       1
     ]
   },
-  "281643": {
-    "title": "Over the Garden Wall",
-    "seenSeasons": [
-      1
-    ]
-  },
   "283935": {
-    "title": "トリニティセブン",
+    "title": "Trinity Seven",
     "seenSeasons": [
       1
     ]
   },
   "283942": {
-    "title": "暁のヨナ",
+    "title": "Yona of the Dawn",
     "seenSeasons": [
       2,
       1
     ]
   },
   "283947": {
-    "title": "暗殺教室",
+    "title": "Assassination Classroom",
     "seenSeasons": [
       2,
       1
     ]
   },
   "284564": {
-    "title": "SHIROBAKO",
+    "title": "Shirobako",
     "seenSeasons": [
       1
     ]
   },
   "289882": {
-    "title": "ダンジョンに出会いを求めるのは間違っているだろうか",
+    "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon?",
     "seenSeasons": [
       5,
       4,
@@ -858,7 +715,7 @@
     ]
   },
   "289884": {
-    "title": "響け！ユーフォニアム",
+    "title": "Sound! Euphonium",
     "seenSeasons": [
       3,
       2,
@@ -866,20 +723,20 @@
     ]
   },
   "289886": {
-    "title": "血界戦線",
+    "title": "Blood Blockade Battlefront",
     "seenSeasons": [
       2,
       1
     ]
   },
   "289905": {
-    "title": "俺物語!!",
+    "title": "My Love Story!!",
     "seenSeasons": [
       1
     ]
   },
   "293088": {
-    "title": "ワンパンマン",
+    "title": "One-Punch Man",
     "seenSeasons": [
       3,
       2,
@@ -887,20 +744,20 @@
     ]
   },
   "293121": {
-    "title": "干物妹！うまるちゃん",
+    "title": "Himouto! Umaru-chan",
     "seenSeasons": [
       2,
       1
     ]
   },
   "293774": {
-    "title": "下ネタという概念が存在しない退屈な世界",
+    "title": "Shimoneta: A Boring World Where the Concept of Dirty Jokes Doesn't Exist",
     "seenSeasons": [
       1
     ]
   },
   "294002": {
-    "title": "オーバーロード",
+    "title": "Overlord",
     "seenSeasons": [
       4,
       3,
@@ -909,26 +766,26 @@
     ]
   },
   "295205": {
-    "title": "赤髪の白雪姫",
+    "title": "Snow White with the Red Hair",
     "seenSeasons": [
       1
     ]
   },
   "295222": {
-    "title": "GATE（ゲート）自衛隊　彼の地にて、斯く戦えり",
+    "title": "GATE",
     "seenSeasons": [
       1
     ]
   },
   "299497": {
-    "title": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "title": "Mobile Suit Gundam: Iron-Blooded Orphans",
     "seenSeasons": [
       2,
       1
     ]
   },
   "299506": {
-    "title": "落第騎士の英雄譚",
+    "title": "Chivalry of a Failed Knight",
     "seenSeasons": [
       1
     ]
@@ -940,20 +797,20 @@
     ]
   },
   "299882": {
-    "title": "進撃！巨人中学校",
+    "title": "Attack on Titan: Junior High",
     "seenSeasons": [
       1
     ]
   },
   "303725": {
-    "title": "だがしかし",
+    "title": "Dagashi Kashi",
     "seenSeasons": [
       2,
       1
     ]
   },
   "303867": {
-    "title": "この素晴らしい世界に祝福を！",
+    "title": "KonoSuba – God’s blessing on this wonderful world!!",
     "seenSeasons": [
       3,
       2,
@@ -961,7 +818,7 @@
     ]
   },
   "305074": {
-    "title": "僕のヒーローアカデミア",
+    "title": "My Hero Academia",
     "seenSeasons": [
       8,
       7,
@@ -974,7 +831,7 @@
     ]
   },
   "305075": {
-    "title": "文豪ストレイドッグス",
+    "title": "Bungo Stray Dogs",
     "seenSeasons": [
       3,
       2,
@@ -982,7 +839,7 @@
     ]
   },
   "305089": {
-    "title": "Re：ゼロから始める異世界生活",
+    "title": "Re: ZERO, Starting Life in Another World",
     "seenSeasons": [
       4,
       3,
@@ -1001,20 +858,20 @@
     ]
   },
   "306269": {
-    "title": "3月のライオン",
+    "title": "March Comes in Like a Lion",
     "seenSeasons": [
       2,
       1
     ]
   },
   "307061": {
-    "title": "双星の陰陽師",
+    "title": "Twin Star Exorcists",
     "seenSeasons": [
       1
     ]
   },
   "307375": {
-    "title": "モブサイコ100",
+    "title": "Mob Psycho 100",
     "seenSeasons": [
       4,
       3,
@@ -1029,63 +886,63 @@
     ]
   },
   "318860": {
-    "title": "政宗くんのリベンジ",
+    "title": "Masamune-kun's Revenge",
     "seenSeasons": [
       2,
       1
     ]
   },
   "318893": {
-    "title": "小林さんちのメイドラゴン",
+    "title": "Miss Kobayashi's Dragon Maid",
     "seenSeasons": [
       2,
       1
     ]
   },
   "319410": {
-    "title": "エロマンガ先生",
+    "title": "Eromanga Sensei",
     "seenSeasons": [
       1
     ]
   },
   "319454": {
-    "title": "セイレン",
+    "title": "Seiren",
     "seenSeasons": [
       1
     ]
   },
   "321671": {
-    "title": "武装少女マキャヴェリズム",
+    "title": "Armed Girl's Machiavellism",
     "seenSeasons": [
       1
     ]
   },
   "325197": {
-    "title": "月がきれい",
+    "title": "Tsukigakirei",
     "seenSeasons": [
       1
     ]
   },
   "328822": {
-    "title": "徒然チルドレン",
+    "title": "Tsuredure Children",
     "seenSeasons": [
       1
     ]
   },
   "329422": {
-    "title": "はじめてのギャル",
+    "title": "My First Girlfriend is a Gal",
     "seenSeasons": [
       1
     ]
   },
   "329821": {
-    "title": "アホガール",
+    "title": "AHO-GIRL",
     "seenSeasons": [
       1
     ]
   },
   "329822": {
-    "title": "ようこそ実力至上主義の教室へ",
+    "title": "Classroom of the Elite",
     "seenSeasons": [
       5,
       4,
@@ -1095,13 +952,13 @@
     ]
   },
   "330139": {
-    "title": "ヴァイオレット・エヴァーガーデン",
+    "title": "Violet Evergarden",
     "seenSeasons": [
       1
     ]
   },
   "331753": {
-    "title": "ブラッククローバー",
+    "title": "Black Clover",
     "seenSeasons": [
       2,
       1
@@ -1116,25 +973,25 @@
     ]
   },
   "332771": {
-    "title": "ネト充のススメ",
+    "title": "Recovery of an MMO Junkie",
     "seenSeasons": [
       1
     ]
   },
   "335088": {
-    "title": "ネコぱら",
+    "title": "Nekopara",
     "seenSeasons": [
       1
     ]
   },
   "337013": {
-    "title": "スロウスタート",
+    "title": "Slow Start",
     "seenSeasons": [
       1
     ]
   },
   "337017": {
-    "title": "ダーリン・イン・ザ・フランキス",
+    "title": "DARLING in the FRANXX",
     "seenSeasons": [
       1
     ]
@@ -1153,19 +1010,19 @@
     ]
   },
   "337122": {
-    "title": "恋は雨上がりのように",
+    "title": "After the Rain",
     "seenSeasons": [
       1
     ]
   },
   "337623": {
-    "title": "宇宙よりも遠い場所",
+    "title": "A Place Further Than the Universe",
     "seenSeasons": [
       1
     ]
   },
   "337936": {
-    "title": "からかい上手の高木さん",
+    "title": "Teasing Master Takagi-san",
     "seenSeasons": [
       3,
       2,
@@ -1173,67 +1030,67 @@
     ]
   },
   "339268": {
-    "title": "シュタインズ・ゲート ゼロ",
+    "title": "Steins;Gate 0",
     "seenSeasons": [
       2,
       1
     ]
   },
   "341425": {
-    "title": "ヲタクに恋は難しい",
+    "title": "Wotakoi: Love Is Hard for Otaku",
     "seenSeasons": [
       1
     ]
   },
   "341432": {
-    "title": "多田くんは恋をしない",
+    "title": "Tada Never Falls in Love",
     "seenSeasons": [
       1
     ]
   },
   "341437": {
-    "title": "メガロボクス",
+    "title": "Megalobox",
     "seenSeasons": [
       2,
       1
     ]
   },
   "342010": {
-    "title": "3D彼女 リアルガール",
+    "title": "Real Girl",
     "seenSeasons": [
       2,
       1
     ]
   },
   "345596": {
-    "title": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "title": "Rascal Does Not Dream of Bunny Girl Senpai",
     "seenSeasons": [
       2,
       1
     ]
   },
   "346931": {
-    "title": "はたらく細胞",
+    "title": "Cells at Work!",
     "seenSeasons": [
       2,
       1
     ]
   },
   "348002": {
-    "title": "約束のネバーランド",
+    "title": "The Promised Neverland",
     "seenSeasons": [
       2,
       1
     ]
   },
   "348065": {
-    "title": "やがて君になる",
+    "title": "Bloom Into You",
     "seenSeasons": [
       1
     ]
   },
   "348545": {
-    "title": "鬼滅の刃",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
     "seenSeasons": [
       5,
       4,
@@ -1249,7 +1106,7 @@
     ]
   },
   "352408": {
-    "title": "転生したらスライムだった件",
+    "title": "That Time I Got Reincarnated as a Slime",
     "seenSeasons": [
       4,
       3,
@@ -1258,7 +1115,7 @@
     ]
   },
   "353712": {
-    "title": "盾の勇者の成り上がり",
+    "title": "The Rising of the Shield Hero",
     "seenSeasons": [
       5,
       4,
@@ -1268,13 +1125,13 @@
     ]
   },
   "354167": {
-    "title": "どろろ（2019）",
+    "title": "Dororo (2019)",
     "seenSeasons": [
       1
     ]
   },
   "354198": {
-    "title": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+    "title": "Kaguya-sama: Love Is War",
     "seenSeasons": [
       3,
       2,
@@ -1282,7 +1139,7 @@
     ]
   },
   "355480": {
-    "title": "炎炎ノ消防隊",
+    "title": "Fire Force",
     "seenSeasons": [
       3,
       2,
@@ -1290,7 +1147,7 @@
     ]
   },
   "355774": {
-    "title": "Dr.STONE",
+    "title": "Dr. STONE",
     "seenSeasons": [
       4,
       3,
@@ -1299,7 +1156,7 @@
     ]
   },
   "355966": {
-    "title": "五等分の花嫁",
+    "title": "The Quintessential Quintuplets",
     "seenSeasons": [
       3,
       2,
@@ -1307,13 +1164,13 @@
     ]
   },
   "355969": {
-    "title": "私に天使が舞い降りた！",
+    "title": "WATATEN!: an Angel Flew Down to Me",
     "seenSeasons": [
       1
     ]
   },
   "357488": {
-    "title": "フルーツバスケット (2019)",
+    "title": "Fruits Basket (2019)",
     "seenSeasons": [
       3,
       2,
@@ -1321,13 +1178,13 @@
     ]
   },
   "358411": {
-    "title": "ひとりぼっちの○○生活",
+    "title": "Hitoribocchi no Marumaruseikatsu",
     "seenSeasons": [
       1
     ]
   },
   "358612": {
-    "title": "刺客伍六七",
+    "title": "Scissor Seven",
     "seenSeasons": [
       5,
       4,
@@ -1337,39 +1194,39 @@
     ]
   },
   "359095": {
-    "title": "ぼくたちは勉強ができない",
+    "title": "We Never Learn: BOKUBEN",
     "seenSeasons": [
       2,
       1
     ]
   },
   "359274": {
-    "title": "ヴィンランド・サガ",
+    "title": "Vinland Saga",
     "seenSeasons": [
       2,
       1
     ]
   },
   "360010": {
-    "title": "みだらな青ちゃんは勉強ができない",
+    "title": "Ao-chan Can't Study!",
     "seenSeasons": [
       1
     ]
   },
   "360502": {
-    "title": "ダンベル何キロ持てる？",
+    "title": "How Heavy Are the Dumbbells You Lift?",
     "seenSeasons": [
       1
     ]
   },
   "360579": {
-    "title": "世話やきキツネの仙狐さん",
+    "title": "The Helpful Fox Senko-san",
     "seenSeasons": [
       1
     ]
   },
   "361705": {
-    "title": "荒ぶる季節の乙女どもよ。",
+    "title": "O Maidens in Your Savage Season",
     "seenSeasons": [
       1
     ]
@@ -1382,14 +1239,14 @@
     ]
   },
   "363143": {
-    "title": "まちカドまぞく",
+    "title": "The Demon Girl Next Door",
     "seenSeasons": [
       2,
       1
     ]
   },
   "366263": {
-    "title": "本好きの下剋上 司書になるためには手段を選んでいられません",
+    "title": "Ascendance of a Bookworm",
     "seenSeasons": [
       1
     ]
@@ -1414,7 +1271,7 @@
     ]
   },
   "369048": {
-    "title": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～",
+    "title": "Cautious Hero: The Hero Is Overpowered but Overly Cautious",
     "seenSeasons": [
       1
     ]
@@ -1427,13 +1284,13 @@
     ]
   },
   "371108": {
-    "title": "安達としまむら",
+    "title": "Adachi and Shimamura",
     "seenSeasons": [
       1
     ]
   },
   "371310": {
-    "title": "無職転生 ～異世界行ったら本気だす～",
+    "title": "Mushoku Tensei: Jobless Reincarnation",
     "seenSeasons": [
       3,
       2,
@@ -1448,7 +1305,7 @@
     ]
   },
   "375271": {
-    "title": "不滅のあなたへ",
+    "title": "To Your Eternity",
     "seenSeasons": [
       3,
       2,
@@ -1456,7 +1313,7 @@
     ]
   },
   "376472": {
-    "title": "今際の国のアリス",
+    "title": "Alice in Borderland (2020)",
     "seenSeasons": [
       3,
       2,
@@ -1464,7 +1321,7 @@
     ]
   },
   "377543": {
-    "title": "呪術廻戦",
+    "title": "JUJUTSU KAISEN",
     "seenSeasons": [
       4,
       3,
@@ -1473,7 +1330,7 @@
     ]
   },
   "378609": {
-    "title": "８６―エイティシックス―",
+    "title": "86: Eighty Six",
     "seenSeasons": [
       1
     ]
@@ -1487,13 +1344,13 @@
     ]
   },
   "380402": {
-    "title": "はたらく細胞BLACK",
+    "title": "Cells at Work! Code Black",
     "seenSeasons": [
       1
     ]
   },
   "380654": {
-    "title": "彼女、お借りします",
+    "title": "Rent-a-Girlfriend",
     "seenSeasons": [
       6,
       5,
@@ -1504,7 +1361,7 @@
     ]
   },
   "381406": {
-    "title": "宇崎ちゃんは遊びたい！",
+    "title": "Uzaki-chan Wants to Hang Out!",
     "seenSeasons": [
       2,
       1
@@ -1520,7 +1377,7 @@
     ]
   },
   "383275": {
-    "title": "오징어 게임",
+    "title": "Squid Game",
     "seenSeasons": [
       3,
       2,
@@ -1528,14 +1385,14 @@
     ]
   },
   "384541": {
-    "title": "サイバーパンク エッジランナーズ",
+    "title": "Cyberpunk: Edgerunners",
     "seenSeasons": [
       2,
       1
     ]
   },
   "385077": {
-    "title": "トニカクカワイイ",
+    "title": "TONIKAWA: Over the Moon for You",
     "seenSeasons": [
       3,
       2,
@@ -1543,33 +1400,33 @@
     ]
   },
   "385278": {
-    "title": "イジらないで、長瀞さん",
+    "title": "Don't Toy With Me, Miss Nagatoro",
     "seenSeasons": [
       2,
       1
     ]
   },
   "385374": {
-    "title": "転スラ日記 転生したらスライムだった件",
+    "title": "The Slime Diaries",
     "seenSeasons": [
       1
     ]
   },
   "388593": {
-    "title": "ホリミヤ",
+    "title": "Horimiya",
     "seenSeasons": [
       1
     ]
   },
   "388737": {
-    "title": "弱キャラ友崎くん",
+    "title": "Bottom-tier Character Tomozaki",
     "seenSeasons": [
       2,
       1
     ]
   },
   "389597": {
-    "title": "俺だけレベルアップな件",
+    "title": "Solo Leveling",
     "seenSeasons": [
       3,
       2,
@@ -1577,13 +1434,13 @@
     ]
   },
   "390306": {
-    "title": "ひげを剃る。そして女子高生を拾う。",
+    "title": "Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway",
     "seenSeasons": [
       1
     ]
   },
   "392195": {
-    "title": "文豪ストレイドッグス わん！",
+    "title": "Bungo Stray Dogs Wan!",
     "seenSeasons": [
       2,
       1
@@ -1596,40 +1453,40 @@
     ]
   },
   "395315": {
-    "title": "スーパーカブ",
+    "title": "Super Cub",
     "seenSeasons": [
       1
     ]
   },
   "395486": {
-    "title": "カノジョも彼女",
+    "title": "Girlfriend, Girlfriend",
     "seenSeasons": [
       2,
       1
     ]
   },
   "397197": {
-    "title": "探偵はもう、死んでいる。",
+    "title": "The Detective Is Already Dead",
     "seenSeasons": [
       2,
       1
     ]
   },
   "397774": {
-    "title": "Vivy-Flourite Eye's Song-",
+    "title": "Vivy: Fluorite Eye's Song",
     "seenSeasons": [
       1
     ]
   },
   "397934": {
-    "title": "チェンソーマン",
+    "title": "Chainsaw Man",
     "seenSeasons": [
       2,
       1
     ]
   },
   "398555": {
-    "title": "死神坊ちゃんと黒メイド",
+    "title": "The Duke of Death and His Maid",
     "seenSeasons": [
       3,
       2,
@@ -1637,82 +1494,82 @@
     ]
   },
   "400090": {
-    "title": "明日ちゃんのセーラー服",
+    "title": "Akebi's Sailor Uniform",
     "seenSeasons": [
       1
     ]
   },
   "400573": {
-    "title": "真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました",
+    "title": "Banished From the Hero's Party, I Decided To Live a Quiet Life in the Countryside",
     "seenSeasons": [
       2,
       1
     ]
   },
   "400585": {
-    "title": "カッコウの許嫁",
+    "title": "A Couple of Cuckoos",
     "seenSeasons": [
       2,
       1
     ]
   },
   "400961": {
-    "title": "天才王子の赤字国家再生術",
+    "title": "The Genius Prince's Guide to Raising a Nation Out of Debt",
     "seenSeasons": [
       1
     ]
   },
   "401233": {
-    "title": "その着せ替え人形は恋をする",
+    "title": "My Dress-Up Darling",
     "seenSeasons": [
       2,
       1
     ]
   },
   "401874": {
-    "title": "先輩がうざい後輩の話",
+    "title": "My Senpai Is Annoying",
     "seenSeasons": [
       1
     ]
   },
   "401902": {
-    "title": "恋は世界征服のあとで",
+    "title": "Love After World Domination",
     "seenSeasons": [
       1
     ]
   },
   "402117": {
-    "title": "可愛いだけじゃない式守さん",
+    "title": "Shikimori's Not Just a Cutie",
     "seenSeasons": [
       1
     ]
   },
   "402337": {
-    "title": "それでも歩は寄せてくる",
+    "title": "When Will Ayumu Make His Move?",
     "seenSeasons": [
       1
     ]
   },
   "402412": {
-    "title": "古見さんは、コミュ症です。",
+    "title": "Komi Can't Communicate",
     "seenSeasons": [
       1
     ]
   },
   "402834": {
-    "title": "スーパー・クルックス",
+    "title": "Super Crooks",
     "seenSeasons": [
       1
     ]
   },
   "404174": {
-    "title": "友達の妹が俺にだけウザい",
+    "title": "My Friend's Little Sister Has It In for Me!",
     "seenSeasons": [
       1
     ]
   },
   "405920": {
-    "title": "SPY×FAMILY",
+    "title": "SPY x FAMILY",
     "seenSeasons": [
       3,
       2,
@@ -1720,20 +1577,20 @@
     ]
   },
   "407306": {
-    "title": "サマータイムレンダ",
+    "title": "Summer Time Rendering",
     "seenSeasons": [
       1
     ]
   },
   "407833": {
-    "title": "阿波連さんははかれない",
+    "title": "Aharen-san wa Hakarenai",
     "seenSeasons": [
       2,
       1
     ]
   },
   "408629": {
-    "title": "ブルーロック",
+    "title": "BLUE LOCK",
     "seenSeasons": [
       3,
       2,
@@ -1741,130 +1598,130 @@
     ]
   },
   "411625": {
-    "title": "勇者、辞めます",
+    "title": "I'm Quitting Heroing",
     "seenSeasons": [
       1
     ]
   },
   "412076": {
-    "title": "聖剣学院の魔剣使い",
+    "title": "The Demon Sword Master of Excalibur Academy",
     "seenSeasons": [
       1
     ]
   },
   "412374": {
-    "title": "よふかしのうた",
+    "title": "Call of the Night",
     "seenSeasons": [
       2,
       1
     ]
   },
   "412696": {
-    "title": "スキップとローファー",
+    "title": "Skip and Loafer",
     "seenSeasons": [
       2,
       1
     ]
   },
   "412806": {
-    "title": "夫婦以上、恋人未満。",
+    "title": "More than a Married Couple, but Not Lovers.",
     "seenSeasons": [
       1
     ]
   },
   "412826": {
-    "title": "乙女ゲー世界はモブに厳しい世界です",
+    "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
     "seenSeasons": [
       2,
       1
     ]
   },
   "413522": {
-    "title": "ぼっち・ざ・ろっく！",
+    "title": "BOCCHI THE ROCK!",
     "seenSeasons": [
       2,
       1
     ]
   },
   "413578": {
-    "title": "るろうに剣心 －明治剣客浪漫譚－ (2023)",
+    "title": "Rurouni Kenshin (2023)",
     "seenSeasons": [
       2,
       1
     ]
   },
   "414057": {
-    "title": "リコリス・リコイル",
+    "title": "Lycoris Recoil",
     "seenSeasons": [
       2,
       1
     ]
   },
   "414221": {
-    "title": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "title": "The Angel Next Door Spoils Me Rotten",
     "seenSeasons": [
       2,
       1
     ]
   },
   "414562": {
-    "title": "君は放課後インソムニア",
+    "title": "Insomniacs After School",
     "seenSeasons": [
       1
     ]
   },
   "415188": {
-    "title": "人間不信の冒険者たちが世界を救うようです",
+    "title": "Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World",
     "seenSeasons": [
       1
     ]
   },
   "415240": {
-    "title": "継母の連れ子が元カノだった",
+    "title": "My Stepmom's Daughter Is My Ex",
     "seenSeasons": [
       1
     ]
   },
   "417147": {
-    "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
+    "title": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF",
     "seenSeasons": [
       2,
       1
     ]
   },
   "418665": {
-    "title": "わたしの幸せな結婚",
+    "title": "My Happy Marriage",
     "seenSeasons": [
       2,
       1
     ]
   },
   "419490": {
-    "title": "おとなりに銀河",
+    "title": "A Galaxy Next Door",
     "seenSeasons": [
       1
     ]
   },
   "419500": {
-    "title": "勇者が死んだ！",
+    "title": "The Legendary Hero Is Dead!",
     "seenSeasons": [
       1
     ]
   },
   "420084": {
-    "title": "久保さんは僕を許さない",
+    "title": "Kubo Won't Let Me Be Invisible",
     "seenSeasons": [
       1
     ]
   },
   "420550": {
-    "title": "デキる猫は今日も憂鬱",
+    "title": "The Masterful Cat is Depressed Again Today",
     "seenSeasons": [
       1
     ]
   },
   "421069": {
-    "title": "【推しの子】",
+    "title": "Oshi no Ko",
     "seenSeasons": [
       4,
       3,
@@ -1873,13 +1730,13 @@
     ]
   },
   "421092": {
-    "title": "勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う",
+    "title": "Beast Tamer",
     "seenSeasons": [
       1
     ]
   },
   "421737": {
-    "title": "マッシュル-MASHLE-",
+    "title": "MASHLE: MAGIC AND MUSCLES",
     "seenSeasons": [
       3,
       2,
@@ -1887,7 +1744,7 @@
     ]
   },
   "421855": {
-    "title": "シャングリラ・フロンティア",
+    "title": "Shangri-La Frontier",
     "seenSeasons": [
       3,
       2,
@@ -1895,19 +1752,19 @@
     ]
   },
   "421994": {
-    "title": "トモちゃんは女の子！",
+    "title": "Tomo-chan Is a Girl!",
     "seenSeasons": [
       1
     ]
   },
   "422721": {
-    "title": "義妹生活",
+    "title": "Days With My Stepsister",
     "seenSeasons": [
       1
     ]
   },
   "422981": {
-    "title": "僕の心のヤバイやつ",
+    "title": "The Dangers in My Heart",
     "seenSeasons": [
       3,
       2,
@@ -1915,7 +1772,7 @@
     ]
   },
   "423075": {
-    "title": "怪獣8号",
+    "title": "Kaiju No. 8",
     "seenSeasons": [
       3,
       2,
@@ -1923,20 +1780,20 @@
     ]
   },
   "423257": {
-    "title": "ダンジョン飯",
+    "title": "Delicious in Dungeon",
     "seenSeasons": [
       2,
       1
     ]
   },
   "423264": {
-    "title": "男女の友情は成立する？（いや、しないっ!!）",
+    "title": "Can a Boy-Girl Friendship Survive?",
     "seenSeasons": [
       1
     ]
   },
   "423413": {
-    "title": "山田くんとLv999の恋をする",
+    "title": "My Love Story With Yamada-kun at Lv999",
     "seenSeasons": [
       1
     ]
@@ -1949,27 +1806,27 @@
     ]
   },
   "424019": {
-    "title": "夜桜さんちの大作戦",
+    "title": "Mission: Yozakura Family",
     "seenSeasons": [
       2,
       1
     ]
   },
   "424435": {
-    "title": "女神のカフェテラス",
+    "title": "The Café Terrace and Its Goddesses",
     "seenSeasons": [
       2,
       1
     ]
   },
   "424535": {
-    "title": "経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。",
+    "title": "Our Dating Story: The Experienced You and The Inexperienced Me",
     "seenSeasons": [
       1
     ]
   },
   "424536": {
-    "title": "葬送のフリーレン",
+    "title": "Frieren: Beyond Journey's End",
     "seenSeasons": [
       3,
       2,
@@ -1983,13 +1840,13 @@
     ]
   },
   "426080": {
-    "title": "うちの会社の小さい先輩の話",
+    "title": "My Tiny Senpai",
     "seenSeasons": [
       1
     ]
   },
   "426165": {
-    "title": "天国大魔境",
+    "title": "Heavenly Delusion",
     "seenSeasons": [
       1
     ]
@@ -2001,58 +1858,58 @@
     ]
   },
   "426488": {
-    "title": "魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？",
+    "title": "An Archdemon's Dilemma: How To Love Your Elf Bride",
     "seenSeasons": [
       1
     ]
   },
   "427276": {
-    "title": "事情を知らない転校生がグイグイくる。",
+    "title": "My Clueless First Friend",
     "seenSeasons": [
       1
     ]
   },
   "428168": {
-    "title": "2.5次元の誘惑",
+    "title": "2.5 Dimensional Seduction",
     "seenSeasons": [
       2,
       1
     ]
   },
   "429310": {
-    "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
+    "title": "Zom 100: Bucket List of the Dead",
     "seenSeasons": [
       2,
       1
     ]
   },
   "429634": {
-    "title": "好きな子がめがねを忘れた",
+    "title": "The Girl I Like Forgot Her Glasses",
     "seenSeasons": [
       1
     ]
   },
   "429896": {
-    "title": "てんぷる",
+    "title": "TenPuru: No One Can Live on Loneliness",
     "seenSeasons": [
       1
     ]
   },
   "429934": {
-    "title": "アオのハコ",
+    "title": "Blue Box",
     "seenSeasons": [
       2,
       1
     ]
   },
   "431093": {
-    "title": "プルートウ",
+    "title": "PLUTO",
     "seenSeasons": [
       1
     ]
   },
   "431162": {
-    "title": "薬屋のひとりごと",
+    "title": "The Apothecary Diaries",
     "seenSeasons": [
       3,
       2,
@@ -2060,13 +1917,13 @@
     ]
   },
   "431705": {
-    "title": "外科医エリーゼ",
+    "title": "Doctor Elise: The Royal Lady With the Lamp",
     "seenSeasons": [
       1
     ]
   },
   "432050": {
-    "title": "君のことが大大大大大好きな100人の彼女",
+    "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
     "seenSeasons": [
       3,
       2,
@@ -2074,33 +1931,33 @@
     ]
   },
   "432455": {
-    "title": "逃げ上手の若君",
+    "title": "The Elusive Samurai",
     "seenSeasons": [
       2,
       1
     ]
   },
   "432476": {
-    "title": "妻、小学生になる。 (2024)",
+    "title": "TsumaSho",
     "seenSeasons": [
       1
     ]
   },
   "432531": {
-    "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
+    "title": "Alya Sometimes Hides Her Feelings in Russian",
     "seenSeasons": [
       2,
       1
     ]
   },
   "432632": {
-    "title": "甘神さんちの縁結び",
+    "title": "Tying the Knot with an Amagami Sister",
     "seenSeasons": [
       1
     ]
   },
   "432832": {
-    "title": "ダンダダン",
+    "title": "DAN DA DAN",
     "seenSeasons": [
       3,
       2,
@@ -2108,14 +1965,14 @@
     ]
   },
   "432845": {
-    "title": "先輩はおとこのこ",
+    "title": "Senpai Is an Otokonoko",
     "seenSeasons": [
       2,
       1
     ]
   },
   "433034": {
-    "title": "愚かな天使は悪魔と踊る",
+    "title": "The Foolish Angel Dances With the Devil",
     "seenSeasons": [
       1
     ]
@@ -2128,68 +1985,68 @@
     ]
   },
   "433527": {
-    "title": "疑似ハーレム",
+    "title": "Pseudo Harem",
     "seenSeasons": [
       1
     ]
   },
   "433584": {
-    "title": "結婚するって、本当ですか (2024)",
+    "title": "365 Days to the Wedding",
     "seenSeasons": [
       1
     ]
   },
   "435815": {
-    "title": "花野井くんと恋の病",
+    "title": "A Condition Called Love",
     "seenSeasons": [
       1
     ]
   },
   "436124": {
-    "title": "ホリミヤ -piece-",
+    "title": "Horimiya: The Missing Pieces",
     "seenSeasons": [
       1
     ]
   },
   "436827": {
-    "title": "沖縄で好きになった子が方言すぎてツラすぎる",
+    "title": "OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
     "seenSeasons": [
       1
     ]
   },
   "436899": {
-    "title": "ゆびさきと恋々",
+    "title": "A Sign of Affection",
     "seenSeasons": [
       1
     ]
   },
   "437209": {
-    "title": "恋は双子で割り切れない",
+    "title": "Love Is Indivisible by Twins",
     "seenSeasons": [
       1
     ]
   },
   "437266": {
-    "title": "勇者刑に処す 懲罰勇者9004隊刑務記録",
+    "title": "Sentenced to Be a Hero",
     "seenSeasons": [
       2,
       1
     ]
   },
   "437408": {
-    "title": "LAZARUS ラザロ",
+    "title": "Lazarus",
     "seenSeasons": [
       1
     ]
   },
   "440057": {
-    "title": "クラスで2番目に可愛い女の子と友だちになった",
+    "title": "I Made Friends with the Second Prettiest Girl in My Class",
     "seenSeasons": [
       1
     ]
   },
   "440087": {
-    "title": "エウレカセブンAO",
+    "title": "Eureka Seven Astral Ocean",
     "seenSeasons": [
       1
     ]
@@ -2202,209 +2059,209 @@
     ]
   },
   "440450": {
-    "title": "ワンルーム、日当たり普通、天使つき。",
+    "title": "Studio Apartment, Good Lighting, Angel Included",
     "seenSeasons": [
       1
     ]
   },
   "441727": {
-    "title": "俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～",
+    "title": "I Parry Everything",
     "seenSeasons": [
       2,
       1
     ]
   },
   "442367": {
-    "title": "かつて魔法少女と悪は敵対していた。",
+    "title": "The Magical Girl and the Evil Lieutenant Used to Be Archenemies",
     "seenSeasons": [
       1
     ]
   },
   "443377": {
-    "title": "負けヒロインが多すぎる！",
+    "title": "Makeine: Too Many Losing Heroines!",
     "seenSeasons": [
       2,
       1
     ]
   },
   "446141": {
-    "title": "紫雲寺家の子供たち",
+    "title": "The Shiunji Family Children",
     "seenSeasons": [
       1
     ]
   },
   "446692": {
-    "title": "どうせ、恋してしまうんだ。",
+    "title": "Anyway, I'm Falling in Love with You.",
     "seenSeasons": [
       2,
       1
     ]
   },
   "446877": {
-    "title": "ハニーレモンソーダ",
+    "title": "Honey Lemon Soda",
     "seenSeasons": [
       1
     ]
   },
   "447450": {
-    "title": "しかのこのこのここしたんたん",
+    "title": "My Deer Friend Nokotan",
     "seenSeasons": [
       1
     ]
   },
   "449723": {
-    "title": "違国日記 (2026)",
+    "title": "Journal with Witch",
     "seenSeasons": [
       1
     ]
   },
   "449988": {
-    "title": "黒岩メダカに私の可愛いが通じない",
+    "title": "Medaka Kuroiwa is Impervious to My Charms",
     "seenSeasons": [
       2,
       1
     ]
   },
   "450537": {
-    "title": "ガチアクタ",
+    "title": "Gachiakuta",
     "seenSeasons": [
       2,
       1
     ]
   },
   "451527": {
-    "title": "クラスの大嫌いな女子と結婚することになった。",
+    "title": "I'm Getting Married to a Girl I Hate in My Class",
     "seenSeasons": [
       1
     ]
   },
   "451821": {
-    "title": "帝乃三姉妹は案外、チョロい。",
+    "title": "Dealing with Mikadono Sisters Is a Breeze",
     "seenSeasons": [
       1
     ]
   },
   "452466": {
-    "title": "この会社に好きな人がいます",
+    "title": "I Have a Crush at Work",
     "seenSeasons": [
       1
     ]
   },
   "452709": {
-    "title": "不器用な先輩。",
+    "title": "My Awkward Senpai",
     "seenSeasons": [
       1
     ]
   },
   "453127": {
-    "title": "ウィッチウォッチ",
+    "title": "WITCH WATCH",
     "seenSeasons": [
       2,
       1
     ]
   },
   "453585": {
-    "title": "雨と君と",
+    "title": "With You and the Rain",
     "seenSeasons": [
       1
     ]
   },
   "454524": {
-    "title": "薫る花は凛と咲く",
+    "title": "The Fragrant Flower Blooms with Dignity",
     "seenSeasons": [
       1
     ]
   },
   "455388": {
-    "title": "九龍ジェネリックロマンス",
+    "title": "Kowloon Generic Romance",
     "seenSeasons": [
       1
     ]
   },
   "456835": {
-    "title": "わたしが恋人になれるわけないじゃん、ムリムリ！（※ムリじゃなかった!?）",
+    "title": "There's No Freaking Way I'll Be Your Lover! Unless...",
     "seenSeasons": [
       1
     ]
   },
   "457078": {
-    "title": "正反対な君と僕",
+    "title": "You and I Are Polar Opposites",
     "seenSeasons": [
       2,
       1
     ]
   },
   "458058": {
-    "title": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
+    "title": "My Hero Academia: Vigilantes",
     "seenSeasons": [
       2,
       1
     ]
   },
   "459453": {
-    "title": "凸变英雄X",
+    "title": "To Be Hero X",
     "seenSeasons": [
       1
     ]
   },
   "459627": {
-    "title": "氷の城壁",
+    "title": "The Ramparts of Ice",
     "seenSeasons": [
       2,
       1
     ]
   },
   "460313": {
-    "title": "レプリカだって、恋をする。",
+    "title": "Even a Replica Can Fall in Love",
     "seenSeasons": [
       1
     ]
   },
   "461311": {
-    "title": "超能立方",
+    "title": "Super Cube",
     "seenSeasons": [
       2,
       1
     ]
   },
   "461467": {
-    "title": "顔に出ない柏田さんと顔に出る太田君",
+    "title": "Inexpressive Kashiwada and Expressive Oota",
     "seenSeasons": [
       1
     ]
   },
   "462226": {
-    "title": "幼馴染とはラブコメにならない",
+    "title": "You Can't Be in a Rom-Com With Your Childhood Friends!",
     "seenSeasons": [
       1
     ]
   },
   "464419": {
-    "title": "诡秘之主",
+    "title": "Lord of Mysteries",
     "seenSeasons": [
       1
     ]
   },
   "465505": {
-    "title": "勇者パーティーにかわいい子がいたので、告白してみた。",
+    "title": "There Was a Cute Girl in the Hero's Party, So I Tried Confessing to Her",
     "seenSeasons": [
       1
     ]
   },
   "465973": {
-    "title": "スーパーの裏でヤニ吸うふたり",
+    "title": "Smoking Behind the Supermarket with You",
     "seenSeasons": [
       1
     ]
   },
   "468761": {
-    "title": "オタクに優しいギャルはいない！？",
+    "title": "Gals Can't Be Kind to Otaku!?",
     "seenSeasons": [
       1
     ]
   },
   "471791": {
-    "title": "大きい女の子は好きですか？",
+    "title": "Do You Like Big Girls?",
     "seenSeasons": [
       1
     ]
