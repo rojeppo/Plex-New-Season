@@ -25,6 +25,11 @@ console.log('config.json written:', config);
 const TVDB_BASE = 'https://api4.thetvdb.com/v4';
 const BACKWARD_CONTEXT_DAYS = 3; // show a few recently-aired days for scrolling context — no forward cap
 
+const EXCLUDED_SECTIONS = (process.env.EXCLUDED_SECTIONS || '')
+  .split(',')
+  .map(s => s.trim().toLowerCase())
+  .filter(Boolean);
+
 // ── Plex helpers ─────────────────────────────────────────────────────────────
 async function plexGet(p) {
   const sep = p.includes('?') ? '&' : '?';
@@ -76,6 +81,15 @@ async function getSeriesExtended(tvdbId) {
   return json.data;
 }
 
+async function getSeriesTranslation(tvdbId, lang) {
+  try {
+    const json = await tvdbGet(`/series/${tvdbId}/translations/${lang}`);
+    return json.data;
+  } catch (e) {
+    return null; // no English translation on file for this series — fall back below
+  }
+}
+
 async function getSeasonExtended(seasonId) {
   const json = await tvdbGet(`/seasons/${seasonId}/extended`);
   return json.data;
@@ -88,7 +102,9 @@ async function main() {
 
   console.log('Connecting to Plex...');
   const libData  = await plexGet('/library/sections');
-  const sections = (libData.MediaContainer?.Directory || []).filter(s => s.type === 'show');
+  const sections = (libData.MediaContainer?.Directory || [])
+    .filter(s => s.type === 'show')
+    .filter(s => !EXCLUDED_SECTIONS.includes(s.title.toLowerCase()));
   console.log(`Found ${sections.length} TV section(s).`);
 
   // Previous run's known season numbers per show — used only to badge a season "New",
@@ -131,7 +147,8 @@ async function main() {
         continue;
       }
 
-      const title  = series.name || item.title;
+      const translation = await getSeriesTranslation(tvdbId, 'eng');
+      const title  = translation?.name || item.title || series.name;
       const poster = series.image || null;
 
       // "official" = the standard aired/season order. Skip DVD/absolute/alternate orderings
