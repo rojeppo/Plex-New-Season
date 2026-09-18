@@ -22,8 +22,8 @@ const config = {
 fs.writeFileSync('config.json', JSON.stringify(config, null, 2));
 console.log('config.json written:', config);
 
-const WINDOW_DAYS = parseInt(process.env.CALENDAR_WINDOW_DAYS || '90', 10);
 const TVDB_BASE = 'https://api4.thetvdb.com/v4';
+const BACKWARD_CONTEXT_DAYS = 3; // show a few recently-aired days for scrolling context — no forward cap
 
 // ── Plex helpers ─────────────────────────────────────────────────────────────
 async function plexGet(p) {
@@ -48,7 +48,7 @@ function extractTvdbId(item) {
 }
 
 // ── TVDB helpers ─────────────────────────────────────────────────────────────
-// v4 auth is a login step (apikey -> short-lived JWT), not a flat query-param key like TMDb.
+// v4 auth is a login step (apikey -> short-lived JWT), not a flat query-param key.
 let tvdbToken = null;
 
 async function tvdbLogin() {
@@ -91,22 +91,24 @@ async function main() {
   const sections = (libData.MediaContainer?.Directory || []).filter(s => s.type === 'show');
   console.log(`Found ${sections.length} TV section(s).`);
 
-  // Previous run's season counts, so we can tell a *new* season from one we already knew about.
+  // Previous run's known season numbers per show — used only to badge a season "New",
+  // not to gate whether it's shown (that's what changed: upcoming seasons are now a
+  // standing list, not a one-time flash on the day they're first seen).
   let prevState = {};
   try {
     prevState = JSON.parse(fs.readFileSync('seasons-state.json', 'utf8'));
     console.log(`Loaded previous state for ${Object.keys(prevState).length} show(s).`);
   } catch (e) {
-    console.log('No previous seasons-state.json found — starting fresh baseline (no announcements will fire this run).');
+    console.log('No previous seasons-state.json found — starting fresh (nothing badged "New" this run).');
   }
 
-  const nextState  = {};
-  const upcoming   = [];
-  const newSeasons = [];
+  const nextState = {};
+  const upcomingEpisodes = [];
+  const upcomingSeasons  = [];
 
   const today = new Date(); today.setHours(0, 0, 0, 0);
-  const windowStart = new Date(today); windowStart.setDate(windowStart.getDate() - 3);
-  const windowEnd   = new Date(today); windowEnd.setDate(windowEnd.getDate() + WINDOW_DAYS);
+  const backwardCutoff = new Date(today);
+  backwardCutoff.setDate(backwardCutoff.getDate() - BACKWARD_CONTEXT_DAYS);
 
   for (const sec of sections) {
     console.log(`Scanning section: ${sec.title}`);
@@ -135,23 +137,17 @@ async function main() {
       // "official" = the standard aired/season order. Skip DVD/absolute/alternate orderings
       // and specials (season 0).
       const officialSeasons = (series.seasons || [])
-        .filter(s => s.type?.type === 'official' && s.number > 0);
+        .filter(s => s.type?.type === 'official' && s.number > 0)
+        .sort((a, b) => b.number - a.number);
 
       if (!officialSeasons.length) continue;
 
-      const maxSeason = Math.max(...officialSeasons.map(s => s.number));
-      nextState[tvdbId] = { title, maxSeason };
+      nextState[tvdbId] = { title, seenSeasons: officialSeasons.map(s => s.number) };
+      const prevSeenSeasons = new Set(prevState[tvdbId]?.seenSeasons || []);
 
-      const prevMax = prevState[tvdbId]?.maxSeason;
-      if (prevMax !== undefined && maxSeason > prevMax) {
-        newSeasons.push({ tvdbId, title, poster, seasonNumber: maxSeason });
-      }
-
-      // Only pull episode-level detail for the latest couple of seasons, so the number of
-      // TVDB calls stays bounded regardless of how deep a show's back catalog goes.
-      const seasonsToCheck = officialSeasons
-        .sort((a, b) => b.number - a.number)
-        .slice(0, 2);
+      // Only pull episode-level detail for the latest couple of seasons, so TVDB call
+      // volume stays bounded regardless of how deep a show's back catalog goes.
+      const seasonsToCheck = officialSeasons.slice(0, 2);
 
       for (const seasonStub of seasonsToCheck) {
         let season;
@@ -162,12 +158,28 @@ async function main() {
           continue;
         }
 
-        for (const ep of season.episodes || []) {
-          if (!ep.aired) continue;
-          const airDate = new Date(ep.aired);
-          if (airDate < windowStart || airDate > windowEnd) continue;
+        const airedEpisodes = (season.episodes || []).filter(ep => ep.aired);
 
-          upcoming.push({
+        if (airedEpisodes.length === 0) {
+          // TVDB knows this season exists but no episode has an air date yet.
+          // `season.year` is TVDB's coarse "expected year" field when a full date isn't
+          // set — verify this field name once you're on live data; if it doesn't come
+          // through, this just falls back to "Date TBA" on the site rather than erroring.
+          upcomingSeasons.push({
+            tvdbId,
+            title,
+            poster,
+            seasonNumber: seasonStub.number,
+            year: season.year || null,
+            isNew: !prevSeenSeasons.has(seasonStub.number),
+          });
+          continue;
+        }
+
+        for (const ep of airedEpisodes) {
+          const airDate = new Date(ep.aired);
+          if (airDate < backwardCutoff) continue; // no forward cap — list everything TVDB has scheduled
+          upcomingEpisodes.push({
             tvdbId,
             title,
             poster,
@@ -180,15 +192,20 @@ async function main() {
     }
   }
 
-  upcoming.sort((a, b) => a.airDate.localeCompare(b.airDate));
-  newSeasons.sort((a, b) => a.title.localeCompare(b.title));
+  upcomingEpisodes.sort((a, b) => a.airDate.localeCompare(b.airDate));
+  upcomingSeasons.sort((a, b) => {
+    if (a.year && b.year) return a.year.localeCompare(b.year);
+    if (a.year) return -1;
+    if (b.year) return 1;
+    return a.title.localeCompare(b.title);
+  });
 
   fs.writeFileSync('seasons-state.json', JSON.stringify(nextState, null, 2));
 
-  const output = { upcoming, newSeasons, updatedAt: new Date().toISOString() };
+  const output = { upcomingEpisodes, upcomingSeasons, updatedAt: new Date().toISOString() };
   fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
 
-  console.log(`Done. ${upcoming.length} upcoming episode(s), ${newSeasons.length} newly announced season(s).`);
+  console.log(`Done. ${upcomingEpisodes.length} upcoming episode(s), ${upcomingSeasons.length} season(s) awaiting air dates.`);
 }
 
 main().catch(err => { console.error('Fatal error:', err); process.exit(1); });
