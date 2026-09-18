@@ -1,0 +1,775 @@
+{
+  "upcomingEpisodes": [
+    {
+      "tvdbId": "383203",
+      "title": "Ted Lasso",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
+      "seasonNumber": 4,
+      "episodeNumber": 7,
+      "airDate": "2026-09-16"
+    },
+    {
+      "tvdbId": "305089",
+      "title": "Re：ゼロから始める異世界生活",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/305089/posters/60aa37d7c847b.jpg",
+      "seasonNumber": 4,
+      "episodeNumber": 17,
+      "airDate": "2026-09-16"
+    },
+    {
+      "tvdbId": "412826",
+      "title": "乙女ゲー世界はモブに厳しい世界です",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/412826/posters/647aef9961953.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "airDate": "2026-09-16"
+    },
+    {
+      "tvdbId": "392195",
+      "title": "文豪ストレイドッグス わん！",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/392195/posters/609cc6bf85e27.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "airDate": "2026-09-17"
+    },
+    {
+      "tvdbId": "465973",
+      "title": "スーパーの裏でヤニ吸うふたり",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/465973/posters/696a1e695b916.jpg",
+      "seasonNumber": 1,
+      "episodeNumber": 11,
+      "airDate": "2026-09-17"
+    },
+    {
+      "tvdbId": "432455",
+      "title": "逃げ上手の若君",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/432455/posters/6418f98639927.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "airDate": "2026-09-18"
+    },
+    {
+      "tvdbId": "352408",
+      "title": "転生したらスライムだった件",
+      "poster": "https://artworks.thetvdb.com/banners/posters/5bb2b28057ade.jpg",
+      "seasonNumber": 4,
+      "episodeNumber": 23,
+      "airDate": "2026-09-18"
+    },
+    {
+      "tvdbId": "366263",
+      "title": "本好きの下剋上 司書になるためには手段を選んでいられません",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/366263/posters/61b0a6997c1ae.jpg",
+      "seasonNumber": 1,
+      "episodeNumber": 58,
+      "airDate": "2026-09-19"
+    },
+    {
+      "tvdbId": "432050",
+      "title": "君のことが大大大大大好きな100人の彼女",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/432050/posters/6523172743a81.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 12,
+      "airDate": "2026-09-20"
+    },
+    {
+      "tvdbId": "81797",
+      "title": "ワンピース",
+      "poster": "https://artworks.thetvdb.com/banners/series/81797/posters/5eec847d52a04.jpg",
+      "seasonNumber": 23,
+      "episodeNumber": 24,
+      "airDate": "2026-09-20"
+    },
+    {
+      "tvdbId": "371310",
+      "title": "無職転生 ～異世界行ったら本気だす～",
+      "poster": "https://artworks.thetvdb.com/banners/series/371310/posters/5feb3674d5e53.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 13,
+      "airDate": "2026-09-21"
+    },
+    {
+      "tvdbId": "383203",
+      "title": "Ted Lasso",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
+      "seasonNumber": 4,
+      "episodeNumber": 8,
+      "airDate": "2026-09-23"
+    },
+    {
+      "tvdbId": "305089",
+      "title": "Re：ゼロから始める異世界生活",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/305089/posters/60aa37d7c847b.jpg",
+      "seasonNumber": 4,
+      "episodeNumber": 18,
+      "airDate": "2026-09-23"
+    },
+    {
+      "tvdbId": "412826",
+      "title": "乙女ゲー世界はモブに厳しい世界です",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/412826/posters/647aef9961953.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "airDate": "2026-09-23"
+    },
+    {
+      "tvdbId": "465973",
+      "title": "スーパーの裏でヤニ吸うふたり",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/465973/posters/696a1e695b916.jpg",
+      "seasonNumber": 1,
+      "episodeNumber": 12,
+      "airDate": "2026-09-24"
+    },
+    {
+      "tvdbId": "432455",
+      "title": "逃げ上手の若君",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/432455/posters/6418f98639927.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "airDate": "2026-09-25"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 2,
+      "airDate": "2026-09-25"
+    },
+    {
+      "tvdbId": "352408",
+      "title": "転生したらスライムだった件",
+      "poster": "https://artworks.thetvdb.com/banners/posters/5bb2b28057ade.jpg",
+      "seasonNumber": 4,
+      "episodeNumber": 24,
+      "airDate": "2026-09-25"
+    },
+    {
+      "tvdbId": "366263",
+      "title": "本好きの下剋上 司書になるためには手段を選んでいられません",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/366263/posters/61b0a6997c1ae.jpg",
+      "seasonNumber": 1,
+      "episodeNumber": 59,
+      "airDate": "2026-09-26"
+    },
+    {
+      "tvdbId": "457078",
+      "title": "正反対な君と僕",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/457078/posters/692e4a685315a.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "airDate": "2026-09-27"
+    },
+    {
+      "tvdbId": "371310",
+      "title": "無職転生 ～異世界行ったら本気だす～",
+      "poster": "https://artworks.thetvdb.com/banners/series/371310/posters/5feb3674d5e53.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 14,
+      "airDate": "2026-09-28"
+    },
+    {
+      "tvdbId": "383203",
+      "title": "Ted Lasso",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
+      "seasonNumber": 4,
+      "episodeNumber": 9,
+      "airDate": "2026-09-30"
+    },
+    {
+      "tvdbId": "305089",
+      "title": "Re：ゼロから始める異世界生活",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/305089/posters/60aa37d7c847b.jpg",
+      "seasonNumber": 4,
+      "episodeNumber": 19,
+      "airDate": "2026-09-30"
+    },
+    {
+      "tvdbId": "459627",
+      "title": "氷の城壁",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "airDate": "2026-10-01"
+    },
+    {
+      "tvdbId": "431162",
+      "title": "薬屋のひとりごと",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "airDate": "2026-10-02"
+    },
+    {
+      "tvdbId": "432455",
+      "title": "逃げ上手の若君",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/432455/posters/6418f98639927.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "airDate": "2026-10-02"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 3,
+      "airDate": "2026-10-02"
+    },
+    {
+      "tvdbId": "366263",
+      "title": "本好きの下剋上 司書になるためには手段を選んでいられません",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/366263/posters/61b0a6997c1ae.jpg",
+      "seasonNumber": 1,
+      "episodeNumber": 60,
+      "airDate": "2026-10-03"
+    },
+    {
+      "tvdbId": "331753",
+      "title": "ブラッククローバー",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "airDate": "2026-10-03"
+    },
+    {
+      "tvdbId": "429934",
+      "title": "アオのハコ",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "airDate": "2026-10-04"
+    },
+    {
+      "tvdbId": "457078",
+      "title": "正反対な君と僕",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/457078/posters/692e4a685315a.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "airDate": "2026-10-04"
+    },
+    {
+      "tvdbId": "383203",
+      "title": "Ted Lasso",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
+      "seasonNumber": 4,
+      "episodeNumber": 10,
+      "airDate": "2026-10-07"
+    },
+    {
+      "tvdbId": "397197",
+      "title": "探偵はもう、死んでいる。",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "airDate": "2026-10-07"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 4,
+      "airDate": "2026-10-09"
+    },
+    {
+      "tvdbId": "331753",
+      "title": "ブラッククローバー",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "airDate": "2026-10-10"
+    },
+    {
+      "tvdbId": "424019",
+      "title": "夜桜さんちの大作戦",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "airDate": "2026-10-11"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 5,
+      "airDate": "2026-10-16"
+    },
+    {
+      "tvdbId": "74796",
+      "title": "BLEACH",
+      "poster": "https://artworks.thetvdb.com/banners/posters/74796-15.jpg",
+      "seasonNumber": 17,
+      "episodeNumber": 49,
+      "airDate": "2026-10-19"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "サイバーパンク エッジランナーズ",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "airDate": "2026-10-20"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 6,
+      "airDate": "2026-10-23"
+    },
+    {
+      "tvdbId": "74796",
+      "title": "BLEACH",
+      "poster": "https://artworks.thetvdb.com/banners/posters/74796-15.jpg",
+      "seasonNumber": 17,
+      "episodeNumber": 50,
+      "airDate": "2026-10-26"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 7,
+      "airDate": "2026-10-30"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 8,
+      "airDate": "2026-11-06"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 9,
+      "airDate": "2026-11-13"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 10,
+      "airDate": "2026-11-20"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 11,
+      "airDate": "2026-11-27"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "ジョジョの奇妙な冒険 (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "episodeNumber": 12,
+      "airDate": "2026-12-04"
+    },
+    {
+      "tvdbId": "421855",
+      "title": "シャングリラ・フロンティア",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/421855/posters/69bbddf18754e.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "airDate": "2027-01-10"
+    }
+  ],
+  "upcomingSeasons": [
+    {
+      "tvdbId": "421069",
+      "title": "【推しの子】",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/421069/posters/69c40a08009e9.jpg",
+      "seasonNumber": 4,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "428168",
+      "title": "2.5次元の誘惑",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/428168/posters/6a9ee7e1b3032.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "337020",
+      "title": "BEATLESS",
+      "poster": "https://artworks.thetvdb.com/banners/posters/337020-3.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "423732",
+      "title": "SAKAMOTO DAYS",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/423732/posters/68933a1b483f4.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "75886",
+      "title": "SpongeBob SquarePants",
+      "poster": "https://artworks.thetvdb.com/banners/posters/75886-7.jpg",
+      "seasonNumber": 18,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "368316",
+      "title": "The Legend of Vox Machina",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/368316/posters/6473860e521cf.jpg",
+      "seasonNumber": 5,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "453127",
+      "title": "ウィッチウォッチ",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/453127/posters/67f3abe142784.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "450537",
+      "title": "ガチアクタ",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/450537/posters/678f825546924.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "339268",
+      "title": "シュタインズ・ゲート ゼロ",
+      "poster": "https://artworks.thetvdb.com/banners/posters/339268-1.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "412696",
+      "title": "スキップとローファー",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/412696/posters/642ca6c8670f5.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "429310",
+      "title": "ゾン100～ゾンビになるまでにしたい100のこと～",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429310/posters/648b7bc93e2f2.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "423257",
+      "title": "ダンジョン飯",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/646f60a7ccc26.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "432832",
+      "title": "ダンダダン",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/432832/posters/66799de2d4628.jpg",
+      "seasonNumber": 3,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "397934",
+      "title": "チェンソーマン",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397934/posters/6345afeb2f65d.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "385077",
+      "title": "トニカクカワイイ",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/385077/posters/64af873e5c226.jpg",
+      "seasonNumber": 3,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "278157",
+      "title": "ハイキュー!!",
+      "poster": "https://artworks.thetvdb.com/banners/series/278157/posters/603f41a9e7d0c.jpg",
+      "seasonNumber": 5,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "408629",
+      "title": "ブルーロック",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/408629/posters/6718238d545cf.jpg",
+      "seasonNumber": 3,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "413522",
+      "title": "ぼっち・ざ・ろっく！",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/413522/posters/63221292a7a2e.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "421737",
+      "title": "マッシュル-MASHLE-",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/421737/posters/643062a127058.jpg",
+      "seasonNumber": 3,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "307375",
+      "title": "モブサイコ100",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/307375/posters/60aa39f03e5be.jpg",
+      "seasonNumber": 4,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "329822",
+      "title": "ようこそ実力至上主義の教室へ",
+      "poster": "https://artworks.thetvdb.com/banners/posters/329822-2.jpg",
+      "seasonNumber": 5,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "414057",
+      "title": "リコリス・リコイル",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/414057/posters/62d1e82cf0cb2.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "355966",
+      "title": "五等分の花嫁",
+      "poster": "https://artworks.thetvdb.com/banners/posters/5c36da6d195bb.jpg",
+      "seasonNumber": 3,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "389597",
+      "title": "俺だけレベルアップな件",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/389597/posters/677a3a1d750ef.jpg",
+      "seasonNumber": 3,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "441727",
+      "title": "俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/441727/posters/668903126d6c2.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "422981",
+      "title": "僕の心のヤバイやつ",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/422981/posters/63fd811beb320.jpg",
+      "seasonNumber": 3,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "432845",
+      "title": "先輩はおとこのこ",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/432845/posters/666896f7ab833.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "437266",
+      "title": "勇者刑に処す 懲罰勇者9004隊刑務記録",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/437266/posters/692f7b476b2fe.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "377543",
+      "title": "呪術廻戦",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/377543/posters/609cbb5bd37d8.jpg",
+      "seasonNumber": 4,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "380654",
+      "title": "彼女、お借りします",
+      "poster": "https://artworks.thetvdb.com/banners/series/380654/posters/5ef93b03cc848.jpg",
+      "seasonNumber": 6,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "423075",
+      "title": "怪獣8号",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/423075/posters/6523c2e4e35f1.jpg",
+      "seasonNumber": 3,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "432531",
+      "title": "時々ボソッとロシア語でデレる隣のアーリャさん",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/432531/posters/66857089eb83b.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "283942",
+      "title": "暁のヨナ",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/283942/posters/6103bd805f09d.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "417147",
+      "title": "狼と香辛料 MERCHANT MEETS THE WISE WOLF",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/417147/posters/64caaa6de04b9.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "353712",
+      "title": "盾の勇者の成り上がり",
+      "poster": "https://artworks.thetvdb.com/banners/posters/5c2140c3d6c43.jpg",
+      "seasonNumber": 5,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "424536",
+      "title": "葬送のフリーレン",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424536/posters/669bdb5da4721.jpg",
+      "seasonNumber": 3,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "443377",
+      "title": "負けヒロインが多すぎる！",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/443377/posters/6668852a315dc.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "461311",
+      "title": "超能立方",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/461311/posters/682e2a650ae7e.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
+      "tvdbId": "449988",
+      "title": "黒岩メダカに私の可愛いが通じない",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/449988/posters/6749a199ea9b7.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    }
+  ],
+  "updatedAt": "2026-09-18T05:21:25.318Z"
+}
