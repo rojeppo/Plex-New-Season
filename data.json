@@ -1,30 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "383203",
-      "title": "Ted Lasso",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
-      "seasonNumber": 4,
-      "episodeNumber": 7,
-      "airDate": "2026-09-16"
-    },
-    {
-      "tvdbId": "305089",
-      "title": "Re: ZERO, Starting Life in Another World",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/305089/posters/60aa37d7c847b.jpg",
-      "seasonNumber": 4,
-      "episodeNumber": 17,
-      "airDate": "2026-09-16"
-    },
-    {
-      "tvdbId": "412826",
-      "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/412826/posters/647aef9961953.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 11,
-      "airDate": "2026-09-16"
-    },
-    {
       "tvdbId": "392195",
       "title": "Bungo Stray Dogs Wan!",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/392195/posters/609cc6bf85e27.jpg",
@@ -763,5 +739,5 @@
       "isNew": false
     }
   ],
-  "updatedAt": "2026-09-19T16:19:07.289Z"
+  "updatedAt": "2026-09-20T16:44:16.695Z"
 }
