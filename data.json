@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "392195",
-      "title": "Bungo Stray Dogs Wan!",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/392195/posters/609cc6bf85e27.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 12,
-      "airDate": "2026-09-17"
-    },
-    {
-      "tvdbId": "465973",
-      "title": "Smoking Behind the Supermarket with You",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/465973/posters/696a1e695b916.jpg",
-      "seasonNumber": 1,
-      "episodeNumber": 11,
-      "airDate": "2026-09-17"
-    },
-    {
       "tvdbId": "432455",
       "title": "The Elusive Samurai",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/432455/posters/6418f98639927.jpg",
@@ -127,6 +111,14 @@
       "seasonNumber": 1,
       "episodeNumber": 59,
       "airDate": "2026-09-26"
+    },
+    {
+      "tvdbId": "81797",
+      "title": "One Piece",
+      "poster": "https://artworks.thetvdb.com/banners/series/81797/posters/5eec847d52a04.jpg",
+      "seasonNumber": 23,
+      "episodeNumber": 25,
+      "airDate": "2026-09-27"
     },
     {
       "tvdbId": "457078",
@@ -739,5 +731,5 @@
       "isNew": false
     }
   ],
-  "updatedAt": "2026-09-20T16:44:16.695Z"
+  "updatedAt": "2026-09-21T18:34:36.862Z"
 }
