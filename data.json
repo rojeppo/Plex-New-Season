@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "432455",
-      "title": "The Elusive Samurai",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/432455/posters/6418f98639927.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 10,
-      "airDate": "2026-09-18"
-    },
-    {
-      "tvdbId": "352408",
-      "title": "That Time I Got Reincarnated as a Slime",
-      "poster": "https://artworks.thetvdb.com/banners/posters/5bb2b28057ade.jpg",
-      "seasonNumber": 4,
-      "episodeNumber": 23,
-      "airDate": "2026-09-18"
-    },
-    {
       "tvdbId": "366263",
       "title": "Ascendance of a Bookworm",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/366263/posters/61b0a6997c1ae.jpg",
@@ -731,5 +715,5 @@
       "isNew": false
     }
   ],
-  "updatedAt": "2026-09-21T18:34:36.862Z"
+  "updatedAt": "2026-09-22T17:34:26.930Z"
 }
