@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "366263",
-      "title": "Ascendance of a Bookworm",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/366263/posters/61b0a6997c1ae.jpg",
-      "seasonNumber": 1,
-      "episodeNumber": 58,
-      "airDate": "2026-09-19"
-    },
-    {
       "tvdbId": "432050",
       "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/432050/posters/6523172743a81.jpg",
@@ -715,5 +707,5 @@
       "isNew": false
     }
   ],
-  "updatedAt": "2026-09-22T17:34:26.930Z"
+  "updatedAt": "2026-09-23T17:47:29.999Z"
 }
