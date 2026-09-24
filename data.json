@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "432050",
-      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/432050/posters/6523172743a81.jpg",
-      "seasonNumber": 3,
-      "episodeNumber": 12,
-      "airDate": "2026-09-20"
-    },
-    {
-      "tvdbId": "81797",
-      "title": "One Piece",
-      "poster": "https://artworks.thetvdb.com/banners/series/81797/posters/5eec847d52a04.jpg",
-      "seasonNumber": 23,
-      "episodeNumber": 24,
-      "airDate": "2026-09-20"
-    },
-    {
       "tvdbId": "371310",
       "title": "Mushoku Tensei: Jobless Reincarnation",
       "poster": "https://artworks.thetvdb.com/banners/series/371310/posters/5feb3674d5e53.jpg",
@@ -707,5 +691,5 @@
       "isNew": false
     }
   ],
-  "updatedAt": "2026-09-23T17:47:29.999Z"
+  "updatedAt": "2026-09-24T17:49:09.922Z"
 }
