@@ -144,7 +144,7 @@
     display: flex; gap: 1rem; overflow-x: auto; padding-bottom: 0.5rem; margin-bottom: 3rem;
   }
   .announced-card {
-    flex: 0 0 auto; width: 150px;
+    flex: 0 0 auto; width: 150px; position: relative;
     background: var(--surface); border: 1px solid var(--border); border-radius: 3px;
     overflow: hidden;
   }
@@ -153,6 +153,17 @@
   .announced-title { font-size: 0.92rem; font-weight: 600; line-height: 1.25; margin-bottom: 0.25rem; }
   .announced-season { font-size: 0.78rem; color: var(--gold); }
   .announced-date { font-size: 0.72rem; color: var(--muted); margin-top: 0.15rem; }
+
+  .card-dismiss {
+    position: absolute; top: 5px; right: 5px; z-index: 2;
+    width: 20px; height: 20px; border-radius: 50%;
+    background: rgba(0,0,0,0.55); color: #fff; border: none;
+    font-size: 0.7rem; line-height: 1; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    opacity: 0; transition: opacity 0.15s, background 0.15s;
+  }
+  .announced-card:hover .card-dismiss { opacity: 1; }
+  .card-dismiss:hover { background: var(--accent); }
 
   /* ── CALENDAR ── */
   .day-group { margin-bottom: 2.25rem; }
@@ -232,6 +243,11 @@
       <div class="announced-strip" id="announced-strip"></div>
     </div>
 
+    <div id="missing-section" style="display:none">
+      <div class="section-label">Missing From Your Library</div>
+      <div class="announced-strip" id="missing-strip"></div>
+    </div>
+
     <div id="calendar-container"></div>
     <div class="empty-state" id="empty-state" style="display:none">Nothing scheduled right now.</div>
   </div>
@@ -244,6 +260,24 @@
   let cfg = {};
   let allUpcoming = [];
   let allNewSeasons = [];
+  let allMissing = [];
+
+  const DISMISS_KEY = 'episode-calendar-dismissed';
+  function loadDismissed() {
+    try { return JSON.parse(localStorage.getItem(DISMISS_KEY) || '{}'); }
+    catch (e) { return {}; }
+  }
+  function saveDismissed(obj) {
+    try { localStorage.setItem(DISMISS_KEY, JSON.stringify(obj)); } catch (e) {}
+  }
+  let dismissed = loadDismissed();
+  function dismissKey(kind, tvdbId, seasonNumber) { return `${kind}:${tvdbId}:${seasonNumber}`; }
+
+  function dismissItem(kind, tvdbId, seasonNumber) {
+    dismissed[dismissKey(kind, tvdbId, seasonNumber)] = true;
+    saveDismissed(dismissed);
+    handleSearch(document.getElementById('search-input').value);
+  }
 
   function applyTheme(mode) {
     localStorage.setItem(THEME_KEY, mode);
@@ -279,6 +313,10 @@
     return { full, rel };
   }
 
+  function fmtShortDate(dateStr) {
+    return new Date(dateStr + 'T00:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  }
+
   function posterHTML(url, cls) {
     return url
       ? `<img class="${cls}" src="${esc(url)}" alt="" loading="lazy" onerror="this.style.visibility='hidden'">`
@@ -286,16 +324,35 @@
   }
 
   function renderAnnounced(items) {
+    const visible = items.filter(s => !dismissed[dismissKey('up', s.tvdbId, s.seasonNumber)] || s.year);
     const section = document.getElementById('announced-section');
-    if (!items.length) { section.style.display = 'none'; return; }
+    if (!visible.length) { section.style.display = 'none'; return; }
     section.style.display = 'block';
-    document.getElementById('announced-strip').innerHTML = items.map(s => `
+    document.getElementById('announced-strip').innerHTML = visible.map(s => `
       <div class="announced-card">
+        <button class="card-dismiss" title="Hide until it's actually confirmed" onclick="dismissItem('up', '${s.tvdbId}', ${s.seasonNumber})">✕</button>
         ${posterHTML(s.poster, 'announced-poster')}
         <div class="announced-meta">
           <div class="announced-title" title="${esc(s.title)}">${esc(s.title)}${s.isNew ? '<span class="new-badge">New</span>' : ''}</div>
           <div class="announced-season">Season ${s.seasonNumber}</div>
           <div class="announced-date">${s.year ? `Expected ${esc(s.year)}` : 'Date TBA'}</div>
+        </div>
+      </div>`).join('');
+  }
+
+  function renderMissing(items) {
+    const visible = items.filter(s => !dismissed[dismissKey('miss', s.tvdbId, s.seasonNumber)]);
+    const section = document.getElementById('missing-section');
+    if (!visible.length) { section.style.display = 'none'; return; }
+    section.style.display = 'block';
+    document.getElementById('missing-strip').innerHTML = visible.map(s => `
+      <div class="announced-card">
+        <button class="card-dismiss" title="Hide — not adding this to Plex" onclick="dismissItem('miss', '${s.tvdbId}', ${s.seasonNumber})">✕</button>
+        ${posterHTML(s.poster, 'announced-poster')}
+        <div class="announced-meta">
+          <div class="announced-title" title="${esc(s.title)}">${esc(s.title)}</div>
+          <div class="announced-season">Season ${s.seasonNumber}</div>
+          <div class="announced-date">Released ${fmtShortDate(s.firstAired)}</div>
         </div>
       </div>`).join('');
   }
@@ -331,13 +388,10 @@
   function handleSearch(query) {
     const q = query.trim().toLowerCase();
     document.getElementById('search-clear').classList.toggle('visible', q.length > 0);
-    if (!q) {
-      renderAnnounced(allNewSeasons);
-      renderCalendar(allUpcoming);
-      return;
-    }
-    renderAnnounced(allNewSeasons.filter(s => s.title.toLowerCase().includes(q)));
-    renderCalendar(allUpcoming.filter(e => e.title.toLowerCase().includes(q)));
+    const byTitle = arr => q ? arr.filter(e => e.title.toLowerCase().includes(q)) : arr;
+    renderAnnounced(byTitle(allNewSeasons));
+    renderMissing(byTitle(allMissing));
+    renderCalendar(byTitle(allUpcoming));
   }
 
   function clearSearch() {
@@ -367,6 +421,7 @@
 
       allUpcoming   = data.upcomingEpisodes || [];
       allNewSeasons = data.upcomingSeasons  || [];
+      allMissing    = data.missingSeasons   || [];
 
       initTheme(cfg.defaultTheme);
       document.title = cfg.siteTitle || 'Episode Calendar';
@@ -375,6 +430,7 @@
         `${allUpcoming.length} episode${allUpcoming.length === 1 ? '' : 's'} on deck`;
 
       renderAnnounced(allNewSeasons);
+      renderMissing(allMissing);
       renderCalendar(allUpcoming);
 
       if (data.updatedAt) {
@@ -391,11 +447,15 @@
     document.getElementById('app').style.display = 'block';
   }
 
-  document.getElementById('announced-strip').addEventListener('wheel', (e) => {
-    if (Math.abs(e.deltaY) <= Math.abs(e.deltaX)) return; // let native horizontal scroll/trackpad through
-    e.preventDefault();
-    e.currentTarget.scrollLeft += e.deltaY;
-  }, { passive: false });
+  function enableWheelScroll(el) {
+    el.addEventListener('wheel', (e) => {
+      if (Math.abs(e.deltaY) <= Math.abs(e.deltaX)) return; // let native horizontal scroll/trackpad through
+      e.preventDefault();
+      e.currentTarget.scrollLeft += e.deltaY;
+    }, { passive: false });
+  }
+  enableWheelScroll(document.getElementById('announced-strip'));
+  enableWheelScroll(document.getElementById('missing-strip'));
 
   init();
 </script>
