@@ -24,6 +24,7 @@ console.log('config.json written:', config);
 
 const TVDB_BASE = 'https://api4.thetvdb.com/v4';
 const BACKWARD_CONTEXT_DAYS = 3; // show a few recently-aired days for scrolling context — no forward cap
+const MISSING_LOOKAHEAD = parseInt(process.env.MISSING_SEASON_LOOKAHEAD || '5', 10);
 
 const EXCLUDED_SECTIONS = (process.env.EXCLUDED_SECTIONS || '')
   .split(',')
@@ -121,6 +122,7 @@ async function main() {
   const nextState = {};
   const upcomingEpisodes = [];
   const upcomingSeasons  = [];
+  const missingSeasons   = [];
 
   const today = new Date(); today.setHours(0, 0, 0, 0);
   const backwardCutoff = new Date(today);
@@ -162,6 +164,27 @@ async function main() {
       nextState[tvdbId] = { title, seenSeasons: officialSeasons.map(s => s.number) };
       const prevSeenSeasons = new Set(prevState[tvdbId]?.seenSeasons || []);
 
+      // What seasons does Plex itself actually have for this show?
+      let plexMaxSeason = 0;
+      try {
+        const children = await plexGet(`/library/metadata/${item.ratingKey}/children`);
+        const plexSeasonNumbers = (children.MediaContainer?.Metadata || [])
+          .map(s => s.index)
+          .filter(n => typeof n === 'number' && n > 0);
+        if (plexSeasonNumbers.length) plexMaxSeason = Math.max(...plexSeasonNumbers);
+      } catch (e) {
+        console.warn(`  Could not fetch Plex seasons for "${title}": ${e.message}`);
+      }
+
+      const seasonCache = new Map(); // seasonStub.id -> season/extended data, shared below
+
+      async function fetchSeason(seasonStub) {
+        if (seasonCache.has(seasonStub.id)) return seasonCache.get(seasonStub.id);
+        const season = await getSeasonExtended(seasonStub.id);
+        seasonCache.set(seasonStub.id, season);
+        return season;
+      }
+
       // Only pull episode-level detail for the latest couple of seasons, so TVDB call
       // volume stays bounded regardless of how deep a show's back catalog goes.
       const seasonsToCheck = officialSeasons.slice(0, 2);
@@ -169,7 +192,7 @@ async function main() {
       for (const seasonStub of seasonsToCheck) {
         let season;
         try {
-          season = await getSeasonExtended(seasonStub.id);
+          season = await fetchSeason(seasonStub);
         } catch (e) {
           console.warn(`  Could not fetch season ${seasonStub.number} for "${title}": ${e.message}`);
           continue;
@@ -206,6 +229,39 @@ async function main() {
           });
         }
       }
+
+      // Seasons TVDB has that Plex doesn't — capped per show so one long-running,
+      // far-behind show can't blow up the TVDB call budget for the whole run.
+      const missingCandidates = officialSeasons
+        .filter(s => s.number > plexMaxSeason)
+        .sort((a, b) => a.number - b.number);
+
+      const toCheck = missingCandidates.slice(0, MISSING_LOOKAHEAD);
+      if (missingCandidates.length > toCheck.length) {
+        console.warn(`  "${title}" is ${missingCandidates.length} season(s) behind Plex — only checked the first ${MISSING_LOOKAHEAD}.`);
+      }
+
+      for (const seasonStub of toCheck) {
+        let season;
+        try {
+          season = await fetchSeason(seasonStub);
+        } catch (e) {
+          console.warn(`  Could not fetch season ${seasonStub.number} for "${title}": ${e.message}`);
+          continue;
+        }
+
+        const airedEpisodes = (season.episodes || []).filter(ep => ep.aired);
+        if (!airedEpisodes.length) continue; // hasn't actually released yet — not "missing", just upcoming
+
+        const firstAired = airedEpisodes.map(ep => ep.aired).sort()[0];
+        missingSeasons.push({
+          tvdbId,
+          title,
+          poster,
+          seasonNumber: seasonStub.number,
+          firstAired,
+        });
+      }
     }
   }
 
@@ -216,13 +272,14 @@ async function main() {
     if (b.year) return 1;
     return a.title.localeCompare(b.title);
   });
+  missingSeasons.sort((a, b) => b.firstAired.localeCompare(a.firstAired)); // most recently missed first
 
   fs.writeFileSync('seasons-state.json', JSON.stringify(nextState, null, 2));
 
-  const output = { upcomingEpisodes, upcomingSeasons, updatedAt: new Date().toISOString() };
+  const output = { upcomingEpisodes, upcomingSeasons, missingSeasons, updatedAt: new Date().toISOString() };
   fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
 
-  console.log(`Done. ${upcomingEpisodes.length} upcoming episode(s), ${upcomingSeasons.length} season(s) awaiting air dates.`);
+  console.log(`Done. ${upcomingEpisodes.length} upcoming episode(s), ${upcomingSeasons.length} season(s) awaiting air dates, ${missingSeasons.length} season(s) missing from Plex.`);
 }
 
 main().catch(err => { console.error('Fatal error:', err); process.exit(1); });
