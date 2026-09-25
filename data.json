@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "371310",
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://artworks.thetvdb.com/banners/series/371310/posters/5feb3674d5e53.jpg",
-      "seasonNumber": 3,
-      "episodeNumber": 13,
-      "airDate": "2026-09-21"
-    },
-    {
       "tvdbId": "383203",
       "title": "Ted Lasso",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
@@ -71,14 +63,6 @@
       "seasonNumber": 1,
       "episodeNumber": 59,
       "airDate": "2026-09-26"
-    },
-    {
-      "tvdbId": "81797",
-      "title": "One Piece",
-      "poster": "https://artworks.thetvdb.com/banners/series/81797/posters/5eec847d52a04.jpg",
-      "seasonNumber": 23,
-      "episodeNumber": 25,
-      "airDate": "2026-09-27"
     },
     {
       "tvdbId": "457078",
@@ -619,14 +603,6 @@
       "isNew": false
     },
     {
-      "tvdbId": "461311",
-      "title": "Super Cube",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/461311/posters/682e2a650ae7e.jpg",
-      "seasonNumber": 2,
-      "year": null,
-      "isNew": false
-    },
-    {
       "tvdbId": "422981",
       "title": "The Dangers in My Heart",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/422981/posters/63fd811beb320.jpg",
@@ -691,5 +667,308 @@
       "isNew": false
     }
   ],
-  "updatedAt": "2026-09-24T17:49:09.922Z"
+  "missingSeasons": [
+    {
+      "tvdbId": "421855",
+      "title": "Shangri-La Frontier",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/421855/posters/69bbddf18754e.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2027-01-10"
+    },
+    {
+      "tvdbId": "384541",
+      "title": "Cyberpunk: Edgerunners",
+      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-10-20"
+    },
+    {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-10-07"
+    },
+    {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-10-04"
+    },
+    {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-10-03"
+    },
+    {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2026-10-02"
+    },
+    {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-10-01"
+    },
+    {
+      "tvdbId": "383203",
+      "title": "Ted Lasso",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
+      "seasonNumber": 4,
+      "firstAired": "2026-08-05"
+    },
+    {
+      "tvdbId": "432455",
+      "title": "The Elusive Samurai",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/432455/posters/6418f98639927.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-07-17"
+    },
+    {
+      "tvdbId": "412826",
+      "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/412826/posters/647aef9961953.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-07-08"
+    },
+    {
+      "tvdbId": "432050",
+      "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/432050/posters/6523172743a81.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2026-07-05"
+    },
+    {
+      "tvdbId": "457078",
+      "title": "You and I Are Polar Opposites",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/457078/posters/692e4a685315a.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-07-05"
+    },
+    {
+      "tvdbId": "371310",
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://artworks.thetvdb.com/banners/series/371310/posters/5feb3674d5e53.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2026-07-04"
+    },
+    {
+      "tvdbId": "392195",
+      "title": "Bungo Stray Dogs Wan!",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/392195/posters/609cc6bf85e27.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-07-02"
+    },
+    {
+      "tvdbId": "368316",
+      "title": "The Legend of Vox Machina",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/368316/posters/6473860e521cf.jpg",
+      "seasonNumber": 4,
+      "firstAired": "2026-06-03"
+    },
+    {
+      "tvdbId": "440193",
+      "title": "Devil May Cry (2025)",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/440193/posters/67c312db6ea24.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-05-12"
+    },
+    {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-04-12"
+    },
+    {
+      "tvdbId": "352408",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "poster": "https://artworks.thetvdb.com/banners/posters/5bb2b28057ade.jpg",
+      "seasonNumber": 4,
+      "firstAired": "2026-04-03"
+    },
+    {
+      "tvdbId": "329822",
+      "title": "Classroom of the Elite",
+      "poster": "https://artworks.thetvdb.com/banners/posters/329822-2.jpg",
+      "seasonNumber": 4,
+      "firstAired": "2026-04-01"
+    },
+    {
+      "tvdbId": "262954",
+      "title": "JoJo's Bizarre Adventure (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
+      "seasonNumber": 6,
+      "firstAired": "2026-03-19"
+    },
+    {
+      "tvdbId": "446692",
+      "title": "Anyway, I'm Falling in Love with You.",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/446692/posters/66fd3d4809b52.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2026-01-09"
+    },
+    {
+      "tvdbId": "379403",
+      "title": "Smiling Friends",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/379403/posters/68de1aea0d605.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2025-10-05"
+    },
+    {
+      "tvdbId": "259635",
+      "title": "Kingdom (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/259635-1.jpg",
+      "seasonNumber": 6,
+      "firstAired": "2025-10-05"
+    },
+    {
+      "tvdbId": "305074",
+      "title": "My Hero Academia",
+      "poster": "https://artworks.thetvdb.com/banners/posters/305074-11.jpg",
+      "seasonNumber": 8,
+      "firstAired": "2025-10-04"
+    },
+    {
+      "tvdbId": "405920",
+      "title": "SPY x FAMILY",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/405920/posters/622527d8f031d.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2025-10-04"
+    },
+    {
+      "tvdbId": "375271",
+      "title": "To Your Eternity",
+      "poster": "https://artworks.thetvdb.com/banners/series/375271/posters/602a0fd894998.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2025-10-04"
+    },
+    {
+      "tvdbId": "353712",
+      "title": "The Rising of the Shield Hero",
+      "poster": "https://artworks.thetvdb.com/banners/posters/5c2140c3d6c43.jpg",
+      "seasonNumber": 4,
+      "firstAired": "2025-07-09"
+    },
+    {
+      "tvdbId": "345596",
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "poster": "https://artworks.thetvdb.com/banners/posters/5bb31494ec079.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2025-07-05"
+    },
+    {
+      "tvdbId": "412374",
+      "title": "Call of the Night",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/412374/posters/620bdb77e8b17.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2025-07-04"
+    },
+    {
+      "tvdbId": "383275",
+      "title": "Squid Game",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/383275/posters/6151351c5420c.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2025-06-27"
+    },
+    {
+      "tvdbId": "473467",
+      "title": "Blood of Zeus",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/473467/posters/6982a64e274cb.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2025-05-08"
+    },
+    {
+      "tvdbId": "83996",
+      "title": "Black Butler",
+      "poster": "https://artworks.thetvdb.com/banners/posters/83996-6.jpg",
+      "seasonNumber": 5,
+      "firstAired": "2025-04-05"
+    },
+    {
+      "tvdbId": "355480",
+      "title": "Fire Force",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/355480/posters/6092fe572ddd1.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2025-04-05"
+    },
+    {
+      "tvdbId": "355774",
+      "title": "Dr. STONE",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/355774/posters/628ed4e8ef3c8.jpg",
+      "seasonNumber": 4,
+      "firstAired": "2025-01-09"
+    },
+    {
+      "tvdbId": "421855",
+      "title": "Shangri-La Frontier",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/421855/posters/69bbddf18754e.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2024-10-13"
+    },
+    {
+      "tvdbId": "408629",
+      "title": "BLUE LOCK",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/408629/posters/6718238d545cf.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2024-10-05"
+    },
+    {
+      "tvdbId": "413578",
+      "title": "Rurouni Kenshin (2023)",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/413578/posters/67dec45601d27.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2024-10-04"
+    },
+    {
+      "tvdbId": "368316",
+      "title": "The Legend of Vox Machina",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/368316/posters/6473860e521cf.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2024-10-03"
+    },
+    {
+      "tvdbId": "358612",
+      "title": "Scissor Seven",
+      "poster": "https://artworks.thetvdb.com/banners/posters/5c494a49ae264.jpg",
+      "seasonNumber": 5,
+      "firstAired": "2024-10-02"
+    },
+    {
+      "tvdbId": "352408",
+      "title": "That Time I Got Reincarnated as a Slime",
+      "poster": "https://artworks.thetvdb.com/banners/posters/5bb2b28057ade.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2024-04-05"
+    },
+    {
+      "tvdbId": "259635",
+      "title": "Kingdom (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/259635-1.jpg",
+      "seasonNumber": 5,
+      "firstAired": "2024-01-14"
+    },
+    {
+      "tvdbId": "259635",
+      "title": "Kingdom (2012)",
+      "poster": "https://artworks.thetvdb.com/banners/posters/259635-1.jpg",
+      "seasonNumber": 4,
+      "firstAired": "2022-04-10"
+    },
+    {
+      "tvdbId": "79360",
+      "title": "Eureka Seven",
+      "poster": "https://artworks.thetvdb.com/banners/posters/79360-9.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2012-04-13"
+    }
+  ],
+  "updatedAt": "2026-09-25T03:27:35.321Z"
 }
