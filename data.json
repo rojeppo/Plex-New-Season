@@ -1,30 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "383203",
-      "title": "Ted Lasso",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
-      "seasonNumber": 4,
-      "episodeNumber": 8,
-      "airDate": "2026-09-23"
-    },
-    {
-      "tvdbId": "305089",
-      "title": "Re: ZERO, Starting Life in Another World",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/305089/posters/60aa37d7c847b.jpg",
-      "seasonNumber": 4,
-      "episodeNumber": 18,
-      "airDate": "2026-09-23"
-    },
-    {
-      "tvdbId": "412826",
-      "title": "Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/412826/posters/647aef9961953.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 12,
-      "airDate": "2026-09-23"
-    },
-    {
       "tvdbId": "465973",
       "title": "Smoking Behind the Supermarket with You",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/465973/posters/696a1e695b916.jpg",
@@ -970,5 +946,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-09-26T16:57:24.213Z"
+  "updatedAt": "2026-09-27T17:36:17.208Z"
 }
