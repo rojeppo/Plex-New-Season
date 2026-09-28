@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "465973",
-      "title": "Smoking Behind the Supermarket with You",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/465973/posters/696a1e695b916.jpg",
-      "seasonNumber": 1,
-      "episodeNumber": 12,
-      "airDate": "2026-09-24"
-    },
-    {
       "tvdbId": "432455",
       "title": "The Elusive Samurai",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/432455/posters/6418f98639927.jpg",
@@ -946,5 +938,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-09-27T17:36:17.208Z"
+  "updatedAt": "2026-09-28T20:03:53.087Z"
 }
