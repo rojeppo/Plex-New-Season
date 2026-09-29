@@ -1,30 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "432455",
-      "title": "The Elusive Samurai",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/432455/posters/6418f98639927.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 11,
-      "airDate": "2026-09-25"
-    },
-    {
-      "tvdbId": "262954",
-      "title": "JoJo's Bizarre Adventure (2012)",
-      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
-      "seasonNumber": 6,
-      "episodeNumber": 2,
-      "airDate": "2026-09-25"
-    },
-    {
-      "tvdbId": "352408",
-      "title": "That Time I Got Reincarnated as a Slime",
-      "poster": "https://artworks.thetvdb.com/banners/posters/5bb2b28057ade.jpg",
-      "seasonNumber": 4,
-      "episodeNumber": 24,
-      "airDate": "2026-09-25"
-    },
-    {
       "tvdbId": "366263",
       "title": "Ascendance of a Bookworm",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/366263/posters/61b0a6997c1ae.jpg",
@@ -145,6 +121,14 @@
       "airDate": "2026-10-07"
     },
     {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 2,
+      "airDate": "2026-10-09"
+    },
+    {
       "tvdbId": "262954",
       "title": "JoJo's Bizarre Adventure (2012)",
       "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
@@ -167,6 +151,14 @@
       "seasonNumber": 2,
       "episodeNumber": 13,
       "airDate": "2026-10-11"
+    },
+    {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 3,
+      "airDate": "2026-10-16"
     },
     {
       "tvdbId": "262954",
@@ -265,6 +257,14 @@
       "airDate": "2026-10-20"
     },
     {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 4,
+      "airDate": "2026-10-23"
+    },
+    {
       "tvdbId": "262954",
       "title": "JoJo's Bizarre Adventure (2012)",
       "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
@@ -281,12 +281,28 @@
       "airDate": "2026-10-26"
     },
     {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 5,
+      "airDate": "2026-10-30"
+    },
+    {
       "tvdbId": "262954",
       "title": "JoJo's Bizarre Adventure (2012)",
       "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
       "seasonNumber": 6,
       "episodeNumber": 7,
       "airDate": "2026-10-30"
+    },
+    {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 6,
+      "airDate": "2026-11-06"
     },
     {
       "tvdbId": "262954",
@@ -297,12 +313,28 @@
       "airDate": "2026-11-06"
     },
     {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 7,
+      "airDate": "2026-11-13"
+    },
+    {
       "tvdbId": "262954",
       "title": "JoJo's Bizarre Adventure (2012)",
       "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
       "seasonNumber": 6,
       "episodeNumber": 9,
       "airDate": "2026-11-13"
+    },
+    {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 8,
+      "airDate": "2026-11-20"
     },
     {
       "tvdbId": "262954",
@@ -313,6 +345,14 @@
       "airDate": "2026-11-20"
     },
     {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 9,
+      "airDate": "2026-11-27"
+    },
+    {
       "tvdbId": "262954",
       "title": "JoJo's Bizarre Adventure (2012)",
       "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
@@ -321,12 +361,36 @@
       "airDate": "2026-11-27"
     },
     {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 10,
+      "airDate": "2026-12-04"
+    },
+    {
       "tvdbId": "262954",
       "title": "JoJo's Bizarre Adventure (2012)",
       "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
       "seasonNumber": 6,
       "episodeNumber": 12,
       "airDate": "2026-12-04"
+    },
+    {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 11,
+      "airDate": "2026-12-11"
+    },
+    {
+      "tvdbId": "431162",
+      "title": "The Apothecary Diaries",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 12,
+      "airDate": "2026-12-18"
     },
     {
       "tvdbId": "421855",
@@ -938,5 +1002,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-09-28T20:03:53.087Z"
+  "updatedAt": "2026-09-29T18:31:27.475Z"
 }
