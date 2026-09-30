@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "366263",
-      "title": "Ascendance of a Bookworm",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/366263/posters/61b0a6997c1ae.jpg",
-      "seasonNumber": 1,
-      "episodeNumber": 59,
-      "airDate": "2026-09-26"
-    },
-    {
       "tvdbId": "457078",
       "title": "You and I Are Polar Opposites",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/457078/posters/692e4a685315a.jpg",
@@ -1002,5 +994,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-09-29T18:31:27.475Z"
+  "updatedAt": "2026-09-30T18:20:11.582Z"
 }
