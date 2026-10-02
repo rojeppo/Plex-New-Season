@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "371310",
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://artworks.thetvdb.com/banners/series/371310/posters/5feb3674d5e53.jpg",
-      "seasonNumber": 3,
-      "episodeNumber": 14,
-      "airDate": "2026-09-28"
-    },
-    {
       "tvdbId": "383203",
       "title": "Ted Lasso",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
@@ -105,6 +97,14 @@
       "airDate": "2026-10-07"
     },
     {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "airDate": "2026-10-08"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -135,6 +135,14 @@
       "seasonNumber": 2,
       "episodeNumber": 13,
       "airDate": "2026-10-11"
+    },
+    {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "airDate": "2026-10-15"
     },
     {
       "tvdbId": "431162",
@@ -241,6 +249,14 @@
       "airDate": "2026-10-20"
     },
     {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "airDate": "2026-10-22"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -265,6 +281,14 @@
       "airDate": "2026-10-26"
     },
     {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "airDate": "2026-10-29"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -279,6 +303,14 @@
       "seasonNumber": 6,
       "episodeNumber": 7,
       "airDate": "2026-10-30"
+    },
+    {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "airDate": "2026-11-05"
     },
     {
       "tvdbId": "431162",
@@ -986,5 +1018,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-01T18:45:24.595Z"
+  "updatedAt": "2026-10-02T18:16:48.768Z"
 }
