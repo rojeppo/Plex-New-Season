@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "383203",
-      "title": "Ted Lasso",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
-      "seasonNumber": 4,
-      "episodeNumber": 9,
-      "airDate": "2026-09-30"
-    },
-    {
-      "tvdbId": "305089",
-      "title": "Re: ZERO, Starting Life in Another World",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/305089/posters/60aa37d7c847b.jpg",
-      "seasonNumber": 4,
-      "episodeNumber": 19,
-      "airDate": "2026-09-30"
-    },
-    {
       "tvdbId": "459627",
       "title": "The Ramparts of Ice",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
@@ -129,6 +113,14 @@
       "airDate": "2026-10-10"
     },
     {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "airDate": "2026-10-11"
+    },
+    {
       "tvdbId": "424019",
       "title": "Mission: Yozakura Family",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
@@ -159,6 +151,22 @@
       "seasonNumber": 6,
       "episodeNumber": 5,
       "airDate": "2026-10-16"
+    },
+    {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "airDate": "2026-10-17"
+    },
+    {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "airDate": "2026-10-18"
     },
     {
       "tvdbId": "74796",
@@ -273,6 +281,14 @@
       "airDate": "2026-10-23"
     },
     {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "airDate": "2026-10-25"
+    },
+    {
       "tvdbId": "74796",
       "title": "Bleach",
       "poster": "https://artworks.thetvdb.com/banners/posters/74796-15.jpg",
@@ -305,6 +321,14 @@
       "airDate": "2026-10-30"
     },
     {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "airDate": "2026-11-01"
+    },
+    {
       "tvdbId": "459627",
       "title": "The Ramparts of Ice",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
@@ -329,6 +353,14 @@
       "airDate": "2026-11-06"
     },
     {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "airDate": "2026-11-08"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -343,6 +375,14 @@
       "seasonNumber": 6,
       "episodeNumber": 9,
       "airDate": "2026-11-13"
+    },
+    {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "airDate": "2026-11-15"
     },
     {
       "tvdbId": "431162",
@@ -361,6 +401,14 @@
       "airDate": "2026-11-20"
     },
     {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "airDate": "2026-11-22"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -375,6 +423,14 @@
       "seasonNumber": 6,
       "episodeNumber": 11,
       "airDate": "2026-11-27"
+    },
+    {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "airDate": "2026-11-29"
     },
     {
       "tvdbId": "431162",
@@ -393,6 +449,14 @@
       "airDate": "2026-12-04"
     },
     {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "airDate": "2026-12-06"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -401,12 +465,28 @@
       "airDate": "2026-12-11"
     },
     {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "airDate": "2026-12-13"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
       "seasonNumber": 3,
       "episodeNumber": 12,
       "airDate": "2026-12-18"
+    },
+    {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "airDate": "2026-12-20"
     },
     {
       "tvdbId": "421855",
@@ -1018,5 +1098,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-03T17:04:32.020Z"
+  "updatedAt": "2026-10-04T17:22:33.543Z"
 }
