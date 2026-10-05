@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "459627",
-      "title": "The Ramparts of Ice",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 1,
-      "airDate": "2026-10-01"
-    },
-    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -1098,5 +1090,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-04T17:22:33.543Z"
+  "updatedAt": "2026-10-05T21:02:47.944Z"
 }
