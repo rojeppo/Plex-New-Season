@@ -1,30 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "431162",
-      "title": "The Apothecary Diaries",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
-      "seasonNumber": 3,
-      "episodeNumber": 1,
-      "airDate": "2026-10-02"
-    },
-    {
-      "tvdbId": "432455",
-      "title": "The Elusive Samurai",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/432455/posters/6418f98639927.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 12,
-      "airDate": "2026-10-02"
-    },
-    {
-      "tvdbId": "262954",
-      "title": "JoJo's Bizarre Adventure (2012)",
-      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
-      "seasonNumber": 6,
-      "episodeNumber": 3,
-      "airDate": "2026-10-02"
-    },
-    {
       "tvdbId": "366263",
       "title": "Ascendance of a Bookworm",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/366263/posters/61b0a6997c1ae.jpg",
@@ -1090,5 +1066,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-05T21:02:47.944Z"
+  "updatedAt": "2026-10-06T18:51:34.296Z"
 }
