@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "366263",
-      "title": "Ascendance of a Bookworm",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/366263/posters/61b0a6997c1ae.jpg",
-      "seasonNumber": 1,
-      "episodeNumber": 60,
-      "airDate": "2026-10-03"
-    },
-    {
-      "tvdbId": "331753",
-      "title": "Black Clover",
-      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 1,
-      "airDate": "2026-10-03"
-    },
-    {
       "tvdbId": "429934",
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
@@ -95,6 +79,14 @@
       "seasonNumber": 2,
       "episodeNumber": 13,
       "airDate": "2026-10-11"
+    },
+    {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 2,
+      "airDate": "2026-10-14"
     },
     {
       "tvdbId": "459627",
@@ -225,6 +217,14 @@
       "airDate": "2026-10-20"
     },
     {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 3,
+      "airDate": "2026-10-21"
+    },
+    {
       "tvdbId": "459627",
       "title": "The Ramparts of Ice",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
@@ -265,6 +265,14 @@
       "airDate": "2026-10-26"
     },
     {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "airDate": "2026-10-28"
+    },
+    {
       "tvdbId": "459627",
       "title": "The Ramparts of Ice",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
@@ -295,6 +303,14 @@
       "seasonNumber": 2,
       "episodeNumber": 5,
       "airDate": "2026-11-01"
+    },
+    {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "airDate": "2026-11-04"
     },
     {
       "tvdbId": "459627",
@@ -329,6 +345,14 @@
       "airDate": "2026-11-08"
     },
     {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "airDate": "2026-11-11"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -351,6 +375,14 @@
       "seasonNumber": 2,
       "episodeNumber": 7,
       "airDate": "2026-11-15"
+    },
+    {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "airDate": "2026-11-18"
     },
     {
       "tvdbId": "431162",
@@ -377,6 +409,14 @@
       "airDate": "2026-11-22"
     },
     {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "airDate": "2026-11-25"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -399,6 +439,14 @@
       "seasonNumber": 2,
       "episodeNumber": 9,
       "airDate": "2026-11-29"
+    },
+    {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "airDate": "2026-12-02"
     },
     {
       "tvdbId": "431162",
@@ -425,6 +473,14 @@
       "airDate": "2026-12-06"
     },
     {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "airDate": "2026-12-09"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -441,6 +497,14 @@
       "airDate": "2026-12-13"
     },
     {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "airDate": "2026-12-16"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -455,6 +519,22 @@
       "seasonNumber": 2,
       "episodeNumber": 12,
       "airDate": "2026-12-20"
+    },
+    {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "airDate": "2026-12-23"
+    },
+    {
+      "tvdbId": "397197",
+      "title": "The Detective Is Already Dead",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "airDate": "2026-12-30"
     },
     {
       "tvdbId": "421855",
@@ -1066,5 +1146,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-06T18:51:34.296Z"
+  "updatedAt": "2026-10-07T22:21:05.680Z"
 }
