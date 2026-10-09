@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "429934",
-      "title": "Blue Box",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 1,
-      "airDate": "2026-10-04"
-    },
-    {
-      "tvdbId": "457078",
-      "title": "You and I Are Polar Opposites",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/457078/posters/692e4a685315a.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 13,
-      "airDate": "2026-10-04"
-    },
-    {
       "tvdbId": "383203",
       "title": "Ted Lasso",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
@@ -1146,5 +1130,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-07T22:21:05.680Z"
+  "updatedAt": "2026-10-09T18:43:38.920Z"
 }
