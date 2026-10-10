@@ -990,13 +990,6 @@
       "firstAired": "2025-10-05"
     },
     {
-      "tvdbId": "305074",
-      "title": "My Hero Academia",
-      "poster": "https://artworks.thetvdb.com/banners/posters/305074-11.jpg",
-      "seasonNumber": 8,
-      "firstAired": "2025-10-04"
-    },
-    {
       "tvdbId": "405920",
       "title": "SPY x FAMILY",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/405920/posters/622527d8f031d.jpg",
@@ -1130,5 +1123,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-09T18:43:38.920Z"
+  "updatedAt": "2026-10-10T17:42:44.035Z"
 }
