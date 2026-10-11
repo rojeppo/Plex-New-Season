@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "383203",
-      "title": "Ted Lasso",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/383203/posters/61010b6167190.jpg",
-      "seasonNumber": 4,
-      "episodeNumber": 10,
-      "airDate": "2026-10-07"
-    },
-    {
-      "tvdbId": "397197",
-      "title": "The Detective Is Already Dead",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 1,
-      "airDate": "2026-10-07"
-    },
-    {
       "tvdbId": "459627",
       "title": "The Ramparts of Ice",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
@@ -110,6 +94,14 @@
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
       "episodeNumber": 3,
+      "airDate": "2026-10-18"
+    },
+    {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 14,
       "airDate": "2026-10-18"
     },
     {
@@ -238,6 +230,14 @@
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
       "episodeNumber": 4,
+      "airDate": "2026-10-25"
+    },
+    {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 15,
       "airDate": "2026-10-25"
     },
     {
@@ -527,6 +527,14 @@
       "seasonNumber": 3,
       "episodeNumber": 1,
       "airDate": "2027-01-10"
+    },
+    {
+      "tvdbId": "423257",
+      "title": "Delicious in Dungeon",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/646f60a7ccc26.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "airDate": "2027-10-01"
     }
   ],
   "upcomingSeasons": [
@@ -591,14 +599,6 @@
       "title": "DAN DA DAN",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/432832/posters/66799de2d4628.jpg",
       "seasonNumber": 3,
-      "year": null,
-      "isNew": false
-    },
-    {
-      "tvdbId": "423257",
-      "title": "Delicious in Dungeon",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/646f60a7ccc26.jpg",
-      "seasonNumber": 2,
       "year": null,
       "isNew": false
     },
@@ -828,6 +828,13 @@
     }
   ],
   "missingSeasons": [
+    {
+      "tvdbId": "423257",
+      "title": "Delicious in Dungeon",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/646f60a7ccc26.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2027-10-01"
+    },
     {
       "tvdbId": "421855",
       "title": "Shangri-La Frontier",
@@ -1123,5 +1130,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-10T17:42:44.035Z"
+  "updatedAt": "2026-10-11T17:57:39.744Z"
 }
