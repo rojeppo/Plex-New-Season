@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "429934",
-      "title": "Blue Box",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 2,
-      "airDate": "2026-10-11"
-    },
-    {
-      "tvdbId": "424019",
-      "title": "Mission: Yozakura Family",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 13,
-      "airDate": "2026-10-11"
-    },
-    {
       "tvdbId": "397197",
       "title": "The Detective Is Already Dead",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
@@ -1098,5 +1082,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-14T17:51:55.443Z"
+  "updatedAt": "2026-10-15T17:41:12.860Z"
 }
