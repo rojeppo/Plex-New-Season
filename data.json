@@ -62,7 +62,7 @@
       "poster": "https://artworks.thetvdb.com/banners/posters/74796-15.jpg",
       "seasonNumber": 17,
       "episodeNumber": 49,
-      "airDate": "2026-10-19"
+      "airDate": "2026-10-20"
     },
     {
       "tvdbId": "384541",
@@ -198,7 +198,7 @@
       "poster": "https://artworks.thetvdb.com/banners/posters/74796-15.jpg",
       "seasonNumber": 17,
       "episodeNumber": 50,
-      "airDate": "2026-10-26"
+      "airDate": "2026-10-27"
     },
     {
       "tvdbId": "397197",
@@ -872,13 +872,6 @@
       "firstAired": "2026-07-05"
     },
     {
-      "tvdbId": "371310",
-      "title": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://artworks.thetvdb.com/banners/series/371310/posters/5feb3674d5e53.jpg",
-      "seasonNumber": 3,
-      "firstAired": "2026-07-04"
-    },
-    {
       "tvdbId": "392195",
       "title": "Bungo Stray Dogs Wan!",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/392195/posters/609cc6bf85e27.jpg",
@@ -1082,5 +1075,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-16T17:14:41.491Z"
+  "updatedAt": "2026-10-17T16:12:10.783Z"
 }
