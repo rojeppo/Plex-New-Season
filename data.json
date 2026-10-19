@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "459627",
-      "title": "The Ramparts of Ice",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 3,
-      "airDate": "2026-10-15"
-    },
-    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -54,7 +46,7 @@
       "poster": "https://artworks.thetvdb.com/banners/posters/74796-15.jpg",
       "seasonNumber": 17,
       "episodeNumber": 49,
-      "airDate": "2026-10-20"
+      "airDate": "2026-10-19"
     },
     {
       "tvdbId": "384541",
@@ -169,6 +161,14 @@
       "airDate": "2026-10-23"
     },
     {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 4,
+      "airDate": "2026-10-24"
+    },
+    {
       "tvdbId": "429934",
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
@@ -190,7 +190,7 @@
       "poster": "https://artworks.thetvdb.com/banners/posters/74796-15.jpg",
       "seasonNumber": 17,
       "episodeNumber": 50,
-      "airDate": "2026-10-27"
+      "airDate": "2026-10-26"
     },
     {
       "tvdbId": "397197",
@@ -223,6 +223,14 @@
       "seasonNumber": 6,
       "episodeNumber": 7,
       "airDate": "2026-10-30"
+    },
+    {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 5,
+      "airDate": "2026-10-31"
     },
     {
       "tvdbId": "429934",
@@ -263,6 +271,14 @@
       "seasonNumber": 6,
       "episodeNumber": 8,
       "airDate": "2026-11-06"
+    },
+    {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 6,
+      "airDate": "2026-11-07"
     },
     {
       "tvdbId": "429934",
@@ -1067,5 +1083,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-18T16:26:17.535Z"
+  "updatedAt": "2026-10-19T19:09:13.707Z"
 }
