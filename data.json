@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "431162",
-      "title": "The Apothecary Diaries",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
-      "seasonNumber": 3,
-      "episodeNumber": 3,
-      "airDate": "2026-10-16"
-    },
-    {
-      "tvdbId": "262954",
-      "title": "JoJo's Bizarre Adventure (2012)",
-      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
-      "seasonNumber": 6,
-      "episodeNumber": 5,
-      "airDate": "2026-10-16"
-    },
-    {
       "tvdbId": "331753",
       "title": "Black Clover",
       "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
@@ -241,6 +225,14 @@
       "airDate": "2026-11-01"
     },
     {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 16,
+      "airDate": "2026-11-01"
+    },
+    {
       "tvdbId": "397197",
       "title": "The Detective Is Already Dead",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
@@ -289,6 +281,14 @@
       "airDate": "2026-11-08"
     },
     {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 17,
+      "airDate": "2026-11-08"
+    },
+    {
       "tvdbId": "397197",
       "title": "The Detective Is Already Dead",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
@@ -318,6 +318,14 @@
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
       "episodeNumber": 7,
+      "airDate": "2026-11-15"
+    },
+    {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 18,
       "airDate": "2026-11-15"
     },
     {
@@ -353,6 +361,14 @@
       "airDate": "2026-11-22"
     },
     {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 19,
+      "airDate": "2026-11-22"
+    },
+    {
       "tvdbId": "397197",
       "title": "The Detective Is Already Dead",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
@@ -382,6 +398,14 @@
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
       "episodeNumber": 9,
+      "airDate": "2026-11-29"
+    },
+    {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 20,
       "airDate": "2026-11-29"
     },
     {
@@ -417,6 +441,14 @@
       "airDate": "2026-12-06"
     },
     {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 21,
+      "airDate": "2026-12-06"
+    },
+    {
       "tvdbId": "397197",
       "title": "The Detective Is Already Dead",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
@@ -438,6 +470,14 @@
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
       "episodeNumber": 11,
+      "airDate": "2026-12-13"
+    },
+    {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 22,
       "airDate": "2026-12-13"
     },
     {
@@ -465,12 +505,28 @@
       "airDate": "2026-12-20"
     },
     {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 23,
+      "airDate": "2026-12-20"
+    },
+    {
       "tvdbId": "397197",
       "title": "The Detective Is Already Dead",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
       "seasonNumber": 2,
       "episodeNumber": 12,
       "airDate": "2026-12-23"
+    },
+    {
+      "tvdbId": "424019",
+      "title": "Mission: Yozakura Family",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 24,
+      "airDate": "2026-12-27"
     },
     {
       "tvdbId": "397197",
@@ -1083,5 +1139,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-19T19:09:13.707Z"
+  "updatedAt": "2026-10-20T17:51:01.639Z"
 }
