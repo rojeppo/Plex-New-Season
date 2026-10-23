@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "74796",
-      "title": "Bleach",
-      "poster": "https://artworks.thetvdb.com/banners/posters/74796-15.jpg",
-      "seasonNumber": 17,
-      "episodeNumber": 49,
-      "airDate": "2026-10-19"
-    },
-    {
       "tvdbId": "384541",
       "title": "Cyberpunk: Edgerunners",
       "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
@@ -1115,5 +1107,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-22T17:54:12.859Z"
+  "updatedAt": "2026-10-23T17:47:49.801Z"
 }
