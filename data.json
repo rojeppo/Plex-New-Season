@@ -1,86 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 1,
-      "airDate": "2026-10-20"
-    },
-    {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 2,
-      "airDate": "2026-10-20"
-    },
-    {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 3,
-      "airDate": "2026-10-20"
-    },
-    {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 4,
-      "airDate": "2026-10-20"
-    },
-    {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 5,
-      "airDate": "2026-10-20"
-    },
-    {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 6,
-      "airDate": "2026-10-20"
-    },
-    {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 7,
-      "airDate": "2026-10-20"
-    },
-    {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 8,
-      "airDate": "2026-10-20"
-    },
-    {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 9,
-      "airDate": "2026-10-20"
-    },
-    {
-      "tvdbId": "384541",
-      "title": "Cyberpunk: Edgerunners",
-      "poster": "https://artworks.thetvdb.com/banners/series/384541/posters/5ef503b89742f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 10,
-      "airDate": "2026-10-20"
-    },
-    {
       "tvdbId": "397197",
       "title": "The Detective Is Already Dead",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
@@ -1107,5 +1027,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-23T17:47:49.801Z"
+  "updatedAt": "2026-10-24T16:29:58.297Z"
 }
