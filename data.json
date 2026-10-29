@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "429934",
-      "title": "Blue Box",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 4,
-      "airDate": "2026-10-25"
-    },
-    {
-      "tvdbId": "424019",
-      "title": "Mission: Yozakura Family",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 15,
-      "airDate": "2026-10-25"
-    },
-    {
       "tvdbId": "74796",
       "title": "Bleach",
       "poster": "https://artworks.thetvdb.com/banners/posters/74796-15.jpg",
@@ -987,5 +971,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-28T18:43:19.012Z"
+  "updatedAt": "2026-10-29T18:52:08.639Z"
 }
