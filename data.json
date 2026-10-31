@@ -41,14 +41,6 @@
       "airDate": "2026-10-31"
     },
     {
-      "tvdbId": "429934",
-      "title": "Blue Box",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 5,
-      "airDate": "2026-11-01"
-    },
-    {
       "tvdbId": "424019",
       "title": "Mission: Yozakura Family",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
@@ -101,7 +93,7 @@
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
-      "episodeNumber": 6,
+      "episodeNumber": 5,
       "airDate": "2026-11-08"
     },
     {
@@ -141,7 +133,7 @@
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
-      "episodeNumber": 7,
+      "episodeNumber": 6,
       "airDate": "2026-11-15"
     },
     {
@@ -181,7 +173,7 @@
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
-      "episodeNumber": 8,
+      "episodeNumber": 7,
       "airDate": "2026-11-22"
     },
     {
@@ -221,7 +213,7 @@
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
-      "episodeNumber": 9,
+      "episodeNumber": 8,
       "airDate": "2026-11-29"
     },
     {
@@ -261,7 +253,7 @@
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
-      "episodeNumber": 10,
+      "episodeNumber": 9,
       "airDate": "2026-12-06"
     },
     {
@@ -293,7 +285,7 @@
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
-      "episodeNumber": 11,
+      "episodeNumber": 10,
       "airDate": "2026-12-13"
     },
     {
@@ -325,7 +317,7 @@
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
       "seasonNumber": 2,
-      "episodeNumber": 12,
+      "episodeNumber": 11,
       "airDate": "2026-12-20"
     },
     {
@@ -343,6 +335,14 @@
       "seasonNumber": 2,
       "episodeNumber": 12,
       "airDate": "2026-12-23"
+    },
+    {
+      "tvdbId": "429934",
+      "title": "Blue Box",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "airDate": "2026-12-27"
     },
     {
       "tvdbId": "424019",
@@ -963,5 +963,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-10-30T18:28:42.627Z"
+  "updatedAt": "2026-10-31T17:33:58.232Z"
 }
