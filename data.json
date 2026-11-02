@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "459627",
-      "title": "The Ramparts of Ice",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 5,
-      "airDate": "2026-10-29"
-    },
-    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -121,6 +113,14 @@
       "airDate": "2026-11-13"
     },
     {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "airDate": "2026-11-14"
+    },
+    {
       "tvdbId": "429934",
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
@@ -159,6 +159,14 @@
       "seasonNumber": 6,
       "episodeNumber": 10,
       "airDate": "2026-11-20"
+    },
+    {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "airDate": "2026-11-21"
     },
     {
       "tvdbId": "429934",
@@ -201,6 +209,14 @@
       "airDate": "2026-11-27"
     },
     {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "airDate": "2026-11-28"
+    },
+    {
       "tvdbId": "429934",
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
@@ -241,6 +257,14 @@
       "airDate": "2026-12-04"
     },
     {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "airDate": "2026-12-05"
+    },
+    {
       "tvdbId": "429934",
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
@@ -271,6 +295,14 @@
       "seasonNumber": 3,
       "episodeNumber": 11,
       "airDate": "2026-12-11"
+    },
+    {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "airDate": "2026-12-12"
     },
     {
       "tvdbId": "429934",
@@ -305,6 +337,14 @@
       "airDate": "2026-12-18"
     },
     {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "airDate": "2026-12-19"
+    },
+    {
       "tvdbId": "429934",
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
@@ -327,6 +367,14 @@
       "seasonNumber": 2,
       "episodeNumber": 12,
       "airDate": "2026-12-23"
+    },
+    {
+      "tvdbId": "331753",
+      "title": "Black Clover",
+      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "airDate": "2026-12-26"
     },
     {
       "tvdbId": "429934",
@@ -955,5 +1003,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-01T18:19:24.540Z"
+  "updatedAt": "2026-11-02T22:15:02.926Z"
 }
