@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "431162",
-      "title": "The Apothecary Diaries",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
-      "seasonNumber": 3,
-      "episodeNumber": 5,
-      "airDate": "2026-10-30"
-    },
-    {
-      "tvdbId": "262954",
-      "title": "JoJo's Bizarre Adventure (2012)",
-      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
-      "seasonNumber": 6,
-      "episodeNumber": 7,
-      "airDate": "2026-10-30"
-    },
-    {
       "tvdbId": "331753",
       "title": "Black Clover",
       "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
@@ -1003,5 +987,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-02T22:15:02.926Z"
+  "updatedAt": "2026-11-03T20:01:09.248Z"
 }
