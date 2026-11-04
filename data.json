@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "331753",
-      "title": "Black Clover",
-      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 5,
-      "airDate": "2026-10-31"
-    },
-    {
       "tvdbId": "424019",
       "title": "Mission: Yozakura Family",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
@@ -81,6 +73,14 @@
       "airDate": "2026-11-11"
     },
     {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 7,
+      "airDate": "2026-11-12"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -127,6 +127,14 @@
       "seasonNumber": 2,
       "episodeNumber": 7,
       "airDate": "2026-11-18"
+    },
+    {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 8,
+      "airDate": "2026-11-19"
     },
     {
       "tvdbId": "431162",
@@ -177,6 +185,14 @@
       "airDate": "2026-11-25"
     },
     {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 9,
+      "airDate": "2026-11-26"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -223,6 +239,14 @@
       "seasonNumber": 2,
       "episodeNumber": 9,
       "airDate": "2026-12-02"
+    },
+    {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 10,
+      "airDate": "2026-12-03"
     },
     {
       "tvdbId": "431162",
@@ -987,5 +1011,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-03T20:01:09.248Z"
+  "updatedAt": "2026-11-04T20:21:01.432Z"
 }
