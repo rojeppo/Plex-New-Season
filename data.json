@@ -675,6 +675,14 @@
       "isNew": false
     },
     {
+      "tvdbId": "465505",
+      "title": "There was a Cute Girl in the Hero's Party, So I Tried Confessing to Her",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/465505/posters/695d27b30865f.jpg",
+      "seasonNumber": 2,
+      "year": null,
+      "isNew": true
+    },
+    {
       "tvdbId": "385077",
       "title": "TONIKAWA: Over the Moon for You",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/385077/posters/64af873e5c226.jpg",
@@ -1003,5 +1011,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-06T19:54:19.809Z"
+  "updatedAt": "2026-11-07T17:59:30.578Z"
 }
