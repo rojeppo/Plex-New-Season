@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "431162",
-      "title": "The Apothecary Diaries",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
-      "seasonNumber": 3,
-      "episodeNumber": 6,
-      "airDate": "2026-11-06"
-    },
-    {
-      "tvdbId": "262954",
-      "title": "JoJo's Bizarre Adventure (2012)",
-      "poster": "https://artworks.thetvdb.com/banners/posters/262954-5.jpg",
-      "seasonNumber": 6,
-      "episodeNumber": 8,
-      "airDate": "2026-11-06"
-    },
-    {
       "tvdbId": "331753",
       "title": "Black Clover",
       "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
@@ -273,6 +257,14 @@
       "airDate": "2026-12-09"
     },
     {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 11,
+      "airDate": "2026-12-10"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -313,6 +305,14 @@
       "airDate": "2026-12-16"
     },
     {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 12,
+      "airDate": "2026-12-17"
+    },
+    {
       "tvdbId": "431162",
       "title": "The Apothecary Diaries",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/431162/posters/64a3b5325ecc4.jpg",
@@ -351,6 +351,14 @@
       "seasonNumber": 2,
       "episodeNumber": 12,
       "airDate": "2026-12-23"
+    },
+    {
+      "tvdbId": "459627",
+      "title": "The Ramparts of Ice",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/459627/posters/6a49f1d0af6f1.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 13,
+      "airDate": "2026-12-24"
     },
     {
       "tvdbId": "331753",
@@ -995,5 +1003,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-09T22:55:21.665Z"
+  "updatedAt": "2026-11-10T20:20:55.772Z"
 }
