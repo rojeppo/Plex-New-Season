@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "331753",
-      "title": "Black Clover",
-      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 6,
-      "airDate": "2026-11-07"
-    },
-    {
       "tvdbId": "429934",
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
@@ -393,6 +385,14 @@
       "airDate": "2026-12-30"
     },
     {
+      "tvdbId": "421737",
+      "title": "MASHLE: MAGIC AND MUSCLES",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/421737/posters/643062a127058.jpg",
+      "seasonNumber": 3,
+      "episodeNumber": 1,
+      "airDate": "2027-01-10"
+    },
+    {
       "tvdbId": "421855",
       "title": "Shangri-La Frontier",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/421855/posters/69bbddf18754e.jpg",
@@ -535,14 +535,6 @@
       "title": "Makeine: Too Many Losing Heroines!",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/443377/posters/6668852a315dc.jpg",
       "seasonNumber": 2,
-      "year": null,
-      "isNew": false
-    },
-    {
-      "tvdbId": "421737",
-      "title": "MASHLE: MAGIC AND MUSCLES",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/421737/posters/643062a127058.jpg",
-      "seasonNumber": 3,
       "year": null,
       "isNew": false
     },
@@ -714,6 +706,13 @@
       "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/646f60a7ccc26.jpg",
       "seasonNumber": 2,
       "firstAired": "2027-10-01"
+    },
+    {
+      "tvdbId": "421737",
+      "title": "MASHLE: MAGIC AND MUSCLES",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/421737/posters/643062a127058.jpg",
+      "seasonNumber": 3,
+      "firstAired": "2027-01-10"
     },
     {
       "tvdbId": "421855",
@@ -1003,5 +1002,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-10T20:20:55.772Z"
+  "updatedAt": "2026-11-11T20:03:57.438Z"
 }
