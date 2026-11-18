@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "331753",
-      "title": "Black Clover",
-      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 7,
-      "airDate": "2026-11-14"
-    },
-    {
       "tvdbId": "429934",
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
@@ -353,6 +345,14 @@
       "airDate": "2027-01-10"
     },
     {
+      "tvdbId": "423732",
+      "title": "SAKAMOTO DAYS",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/423732/posters/68933a1b483f4.jpg",
+      "seasonNumber": 2,
+      "episodeNumber": 1,
+      "airDate": "2027-01-19"
+    },
+    {
       "tvdbId": "423257",
       "title": "Delicious in Dungeon",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/646f60a7ccc26.jpg",
@@ -523,14 +523,6 @@
       "isNew": false
     },
     {
-      "tvdbId": "423732",
-      "title": "SAKAMOTO DAYS",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/423732/posters/68933a1b483f4.jpg",
-      "seasonNumber": 2,
-      "year": null,
-      "isNew": false
-    },
-    {
       "tvdbId": "432845",
       "title": "Senpai Is an Otokonoko",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/432845/posters/666896f7ab833.jpg",
@@ -658,6 +650,13 @@
       "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/646f60a7ccc26.jpg",
       "seasonNumber": 2,
       "firstAired": "2027-10-01"
+    },
+    {
+      "tvdbId": "423732",
+      "title": "SAKAMOTO DAYS",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/423732/posters/68933a1b483f4.jpg",
+      "seasonNumber": 2,
+      "firstAired": "2027-01-19"
     },
     {
       "tvdbId": "421737",
@@ -954,5 +953,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-17T21:34:51.305Z"
+  "updatedAt": "2026-11-18T21:10:34.507Z"
 }
