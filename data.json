@@ -1,22 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "429934",
-      "title": "Blue Box",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 6,
-      "airDate": "2026-11-15"
-    },
-    {
-      "tvdbId": "424019",
-      "title": "Mission: Yozakura Family",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/424019/posters/66131d582f232.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 18,
-      "airDate": "2026-11-15"
-    },
-    {
       "tvdbId": "397197",
       "title": "The Detective Is Already Dead",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/397197/posters/67306a341219e.jpg",
@@ -353,6 +337,14 @@
       "airDate": "2027-01-19"
     },
     {
+      "tvdbId": "368207",
+      "title": "INVINCIBLE (2021)",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/368207/posters/652a5ef981eab.jpg",
+      "seasonNumber": 5,
+      "episodeNumber": 1,
+      "airDate": "2027-02-17"
+    },
+    {
       "tvdbId": "423257",
       "title": "Delicious in Dungeon",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/646f60a7ccc26.jpg",
@@ -650,6 +642,13 @@
       "poster": "https://artworks.thetvdb.com/banners/v4/series/423257/posters/646f60a7ccc26.jpg",
       "seasonNumber": 2,
       "firstAired": "2027-10-01"
+    },
+    {
+      "tvdbId": "368207",
+      "title": "INVINCIBLE (2021)",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/368207/posters/652a5ef981eab.jpg",
+      "seasonNumber": 5,
+      "firstAired": "2027-02-17"
     },
     {
       "tvdbId": "423732",
@@ -953,5 +952,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-18T21:10:34.507Z"
+  "updatedAt": "2026-11-19T21:14:06.551Z"
 }
