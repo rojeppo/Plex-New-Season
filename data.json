@@ -338,7 +338,7 @@
     },
     {
       "tvdbId": "368207",
-      "title": "INVINCIBLE (2021)",
+      "title": "Invincible",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/368207/posters/652a5ef981eab.jpg",
       "seasonNumber": 5,
       "episodeNumber": 1,
@@ -645,7 +645,7 @@
     },
     {
       "tvdbId": "368207",
-      "title": "INVINCIBLE (2021)",
+      "title": "Invincible",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/368207/posters/652a5ef981eab.jpg",
       "seasonNumber": 5,
       "firstAired": "2027-02-17"
@@ -952,5 +952,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-19T21:14:06.551Z"
+  "updatedAt": "2026-11-20T20:57:59.652Z"
 }
