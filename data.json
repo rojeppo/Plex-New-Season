@@ -1,14 +1,6 @@
 {
   "upcomingEpisodes": [
     {
-      "tvdbId": "331753",
-      "title": "Black Clover",
-      "poster": "https://artworks.thetvdb.com/banners/posters/331753-9.jpg",
-      "seasonNumber": 2,
-      "episodeNumber": 8,
-      "airDate": "2026-11-21"
-    },
-    {
       "tvdbId": "429934",
       "title": "Blue Box",
       "poster": "https://artworks.thetvdb.com/banners/v4/series/429934/posters/67adf8665670f.jpg",
@@ -920,5 +912,5 @@
       "firstAired": "2012-04-13"
     }
   ],
-  "updatedAt": "2026-11-24T22:57:27.256Z"
+  "updatedAt": "2026-11-25T22:12:59.563Z"
 }
